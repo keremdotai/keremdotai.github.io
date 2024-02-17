@@ -9,9 +9,11 @@ import "./styles/headerProject.css";
 const HeaderProject = () => {
 	return (
 		<div class="header-project">
-			<h1>THAT'S WHAT</h1>
-			<h1>YOUR MOM</h1>
-			<h1>SAID</h1>
+			<h1>
+				<div style={{fontSize: "90px"}}>Universe</div>
+				<div style={{fontSize: "50px"}}>of an</div>
+				<div style={{fontSize: "90px"}}>Engineer</div>
+			</h1>
 		</div>
 	);
 };
