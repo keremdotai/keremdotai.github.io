@@ -16,22 +16,24 @@
 
 .about-title {
 	width: 100% !important;
-	padding-bottom: 30px;
+	padding-top: 20px;
+	padding-bottom: 40px;
 }
 
 .about-subtitle {
 	width: 80% !important;
 	font-size: 40px;
+	padding-bottom: 20px;
 }
 
 .about-left-side {
 	display: flex;
 	flex-direction: column;
-	flex-basis: 300px;
+	flex-basis: 240px;
 }
 
 .about-socials {
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 50px;
 }
 
@@ -103,5 +105,5 @@
 }
 
 .purple {
-	color: #c770f0 !important;
+	color: #13a5da !important;
 }

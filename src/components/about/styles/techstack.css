@@ -9,7 +9,7 @@
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 3px 4px 3px 2px #a94ed460 !important;
+  box-shadow: 3px 4px 3px 2px #3b383c60 !important;
   overflow: hidden !important;
 }
 
@@ -34,13 +34,16 @@
   align-items: normal;
 }
 
-.purple {
-	color: #c770f0 !important;
-}
-
-.project-heading {
-	color: rgb(0, 0, 0) !important;
-	font-size: 2.3em !important;
-	font-weight: 500 !important;
-	padding-top: 10px !important;
+.research-item {
+	font-size: 24px !important;
+	border: 1.7px solid #7676769a !important;
+	border-radius: 5px !important;
+	box-shadow: 3px 4px 3px 2px #3b383c60 !important;
+	margin: 15px !important;
+	padding: 15px !important;
+	opacity: 0.93 !important;
+	vertical-align: middle !important;
+	text-align: center !important;
+	display: table !important;
+  overflow: hidden !important;
 }

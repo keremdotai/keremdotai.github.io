@@ -4,17 +4,19 @@ import { Row } from "react-bootstrap";
 
 import "./styles/techstack.css";
 
+const explicitTheme = {
+  light: ['#f0f0f0', '#f0dcfa', '#e6bbfa', '#d885ff', "#c770f0"],
+  dark: ['#f0f0f0', '#f0dcfa', '#e6bbfa', '#d885ff', "#c770f0"],
+};
+
 function GithubPersonal() {
   return (
-    <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-      <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-        Days I <strong className="purple">Code Personally</strong>
-      </h1>
+    <Row className="tech-row">
       <GitHubCalendar
         username="mkeremavci"
-        blockSize={15}
+        blockSize={12}
         blockMargin={5}
-        color="#13a5da"
+        theme={explicitTheme}
         fontSize={16}
       />
     </Row>
