@@ -1,11 +1,11 @@
 {
-	"name": "keremai.github.io",
+	"name": "keremdotai.github.io",
 	"version": "0.1.0",
 	"description": "Personal Website of M. Kerem Avci",
 	"author": {
 		"name": "M. Kerem Avci",
 		"email": "mkeremavci@gmail.com",
-		"url": "https://keremai.github.io"
+		"url": "https://keremdotai.github.io"
 	},
 	"license": "MIT",
 	"private": true,
@@ -20,9 +20,12 @@
 		"@testing-library/user-event": "^13.5.0",
 		"gh-pages": "^5.0.0",
 		"react": "^18.2.0",
+		"react-bootstrap": "^2.10.1",
 		"react-dom": "^18.2.0",
 		"react-ga4": "^2.1.0",
+		"react-github-calendar": "^4.1.2",
 		"react-helmet": "^6.1.0",
+		"react-icons": "^5.0.1",
 		"react-router-dom": "^6.11.1",
 		"react-scripts": "5.0.1",
 		"styled-components": "^5.3.10",
