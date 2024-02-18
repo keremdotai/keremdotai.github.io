@@ -1,0 +1,16 @@
+
+.resume-row {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    padding-bottom: 40px !important;
+    align-content: normal;
+    align-items: normal;
+}
+
+@media (max-width: 767px) {
+    .resume-row {
+        padding-bottom: 20px !important;
+    }
+}

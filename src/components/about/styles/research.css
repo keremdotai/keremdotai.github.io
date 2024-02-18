@@ -1,0 +1,36 @@
+
+.research-row {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    padding-bottom: 40px !important;
+    align-content: normal;
+    align-items: normal;
+}
+
+.research-item {
+	font-size: 24px !important;
+	border: 1.7px solid #7676769a !important;
+	border-radius: 5px !important;
+	box-shadow: 3px 4px 3px 2px #3b383c60 !important;
+	margin: 15px !important;
+	padding: 15px !important;
+	opacity: 0.93 !important;
+	vertical-align: middle !important;
+	text-align: center !important;
+	display: table !important;
+    overflow: hidden !important;
+}
+
+@media (max-width: 767px) {
+    .research-item {
+        margin: 10px !important;
+        font-size: 14px !important;
+        padding: 10px !important;
+    }
+
+    .research-row {
+        padding-bottom: 20px !important;
+    }
+}

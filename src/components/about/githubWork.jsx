@@ -2,7 +2,7 @@ import React from "react";
 import GitHubCalendar from "react-github-calendar";
 import { Row } from "react-bootstrap";
 
-import "./styles/techstack.css";
+import "./styles/github.css";
 
 const explicitTheme = {
   light: ['#f0f0f0', '#f0dcfa', '#e6bbfa', '#d885ff', "#c770f0"],
@@ -11,7 +11,7 @@ const explicitTheme = {
 
 function GithubWork() {
   return (
-    <Row className="tech-row">
+    <Row className="github-row">
       <GitHubCalendar
         username="keremdotmu"
         blockSize={12}

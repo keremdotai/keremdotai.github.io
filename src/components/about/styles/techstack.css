@@ -13,12 +13,6 @@
   overflow: hidden !important;
 }
 
-@media (max-width: 767px) {
-  .tech-icons {
-    margin: 10px !important;
-  }
-}
-
 .tech-icon-images {
   padding: 20px !important;
   line-height: 1.6 !important;
@@ -34,16 +28,12 @@
   align-items: normal;
 }
 
-.research-item {
-	font-size: 24px !important;
-	border: 1.7px solid #7676769a !important;
-	border-radius: 5px !important;
-	box-shadow: 3px 4px 3px 2px #3b383c60 !important;
-	margin: 15px !important;
-	padding: 15px !important;
-	opacity: 0.93 !important;
-	vertical-align: middle !important;
-	text-align: center !important;
-	display: table !important;
-  overflow: hidden !important;
+@media (max-width: 767px) {
+  .tech-row {
+    padding-bottom: 20px !important;
+  }
+
+  .tech-icons {
+    margin: 10px !important;
+  }
 }

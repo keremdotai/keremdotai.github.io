@@ -1,11 +1,11 @@
 import React from "react";
 import { Row, Col } from "react-bootstrap";
 
-import "./styles/techstack.css";
+import "./styles/research.css";
 
 function Research() {
 	return (
-		<Row className="tech-row">
+		<Row className="research-row">
 			<Col xs={4} md={2} className="research-item">
 				Computer Vision
 			</Col>
@@ -22,7 +22,7 @@ function Research() {
 				Generative AI
 			</Col>
 			<Col xs={4} md={2} className="research-item">
-				Reinforcement Learning
+				Computational Social Science
 			</Col>
 			<Col xs={4} md={2} className="research-item">
 				Multimodal ML
