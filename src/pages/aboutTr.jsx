@@ -2,14 +2,14 @@ import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 import { Container } from "react-bootstrap";
 
-import NavBar from "../components/common/navBar";
-import Footer from "../components/common/footer";
-import Socials from "../components/about/socials";
+import NavBarTr from "../components/common/navBarTr";
+import FooterTr from "../components/common/footerTr";
+import SocialsTr from "../components/about/socialsTr";
 import TechStack from "../components/about/techstack";
 import GithubPersonal from "../components/about/githubPersonal";
 import GithubWork from "../components/about/githubWork";
-import Resume from "../components/about/resume";
-import Research from "../components/about/research";
+import ResearchTr from "../components/about/researchTr";
+import ResumeTr from "../components/about/resumeTr";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -17,7 +17,7 @@ import SEO from "../data/seo";
 import "./styles/about.css";
 import "./styles/about.scss";
 
-const About = () => {
+const AboutTr = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
@@ -27,7 +27,7 @@ const About = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{`About | ${INFO.main.title}`}</title>
+				<title>{`Hakkımda | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
@@ -36,7 +36,7 @@ const About = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar active="about" />
+				<NavBarTr active="about" />
 				<div className="content-wrapper">
 					<div className="about-container">
 						<div className="about-main">
@@ -59,46 +59,47 @@ const About = () => {
 								</div>
 								{/* Subtitle */}
 								<div className="subtitle about-subtitle">
-									Machine Learning enthusiast, Full-stack ML Engineer, a cat dad, and a lifelong learner.
+									Yapay Öğrenme meraklısı, Full-stack Yapay Öğrenme Mühendisi, kedi babası ve hayat boyu öğrenci.
 								</div>
 								<div className="paragraph">
-									Co-founder of <a href="https://www.maynardvision.com/" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "#c770f0"}}><b>Maynard Vision</b></a>, a revolutionary AI-based anti-piracy company.
-									Tech team lead of <a href="https://www.vitamu.co.uk/" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "#c770f0"}}><b>Vitamu</b></a>, an AI healthcare start-up.
+									<a href="https://www.maynardvision.com/" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "#c770f0"}}><b>Maynard Vision</b></a>, bir Yapay Zeka temelli anti-korsan şirketi, kurucu ortağı.
+									<a href="https://www.vitamu.co.uk/" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "#c770f0"}}><b>Vitamu</b></a>, bir Yapay Zeka sağlık girişimi, teknik ekip lideri.
 								</div>
 								<div className="paragraph">
-									Has a Bachelor's degree in Electrical and Electronics Engineering from Bogazici University, Istanbul.
-									Left his Master of Science in Computer Engineering to pursue a career in start-up ecosystem.
+									Boğaziçi Üniversitesi Elektrik Elektronik Mühendisliği bölümünden lisans mezunu.
+									Bilgisayar Mühendisliği yüksek lisansını girişimciliğe yönelmek için bıraktı.
 								</div>
 								<div className="paragraph">
-									A member and a guide in the community of <a href="https://inzva.com/" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "#c770f0"}}><b>inzva</b></a>, an NGO dedicated to Artificial Intelligence and algorithms.
+									<a href="https://inzva.com/" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "#c770f0"}}><b>inzva</b></a>'da, Yapay Zeka ve algoritma konularında çalışan kâr amacı gütmeyen bir kurum, katılımcı ve eğitim rehberi.
 								</div>
 								<div className="paragraph">
-									Lives with five beautiful cats in Istanbul. Plays Pathfinder with friends for more than 2 years. Board game geek. Writes stories and scenarios. Eats, drinks, and has fun!
+									yasak
+									İstanbul'da beş güzel kediyle yaşıyor. 2 yıldan fazla süredir arkadaşlarıyla Pathfinder evreninde bir maceracı. Kutu oyunu aşığı. Hikaye ve senaryo yazar. Yer, içer ve eğlenir!
 								</div>
 							</div>
 
 							<div className="about-left-side">
 								<div className="about-socials">
-									<Socials />
+									<SocialsTr />
 								</div>
 							</div>
 						</div>
 						<div className="about-socials-mobile">
-							<Socials />
+							<SocialsTr />
 						</div>
 					</div>
 
 					<h1 className="project-heading">
-						<strong className="purple">Research</strong> Interest
+						<strong className="purple">Araştırma</strong> Alanları
 					</h1>
 
 					<Container fluid className="about-section">
-						<Research />
+						<ResearchTr />
 					</Container>
 					
 
 					<h1 className="project-heading">
-						Professional <strong className="purple">Skillset </strong>
+						Profesyonal <strong className="purple">Yetiler</strong>
 					</h1>
 
 					<Container fluid className="about-section">
@@ -106,7 +107,7 @@ const About = () => {
 					</Container>
 
 					<h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-						Days I <strong className="purple">Code Personally</strong>
+						<strong className="purple">Kendim için Kodladığım</strong> Günler
 					</h1>
 
 					<Container fluid className="about-section">
@@ -114,7 +115,7 @@ const About = () => {
 					</Container>
 
 					<h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-        		Days I <strong className="purple">Code for Work</strong>
+        		<strong className="purple">İş için Kodladığım</strong> Günler
       		</h1>
 
 					<Container fluid className="about-section">
@@ -122,15 +123,15 @@ const About = () => {
 					</Container>
 
 					<h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-        		<strong className="purple">Resume</strong>
+        		<strong className="purple">Özgeçmiş</strong>
       		</h1>
 
 					<Container fluid className="about-section">
-						<Resume />
+						<ResumeTr />
 					</Container>
 					
 					<div className="page-footer">
-						<Footer />
+						<FooterTr />
 					</div>
 				</div>
 			</div>
@@ -139,4 +140,4 @@ const About = () => {
 	);
 };
 
-export default About;
+export default AboutTr;

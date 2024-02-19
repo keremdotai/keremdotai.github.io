@@ -42,10 +42,6 @@
 }
 
 @media (max-width: 1024px) {
-	.about-logo {
-		z-index: 100;
-	}
-
 	.about-main {
 		flex-direction: column;
 	}

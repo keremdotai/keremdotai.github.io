@@ -22,6 +22,7 @@
 		"react": "^18.2.0",
 		"react-bootstrap": "^2.10.1",
 		"react-dom": "^18.2.0",
+		"react-flagpack": "1.0.0",
 		"react-ga4": "^2.1.0",
 		"react-github-calendar": "^4.1.2",
 		"react-helmet": "^6.1.0",
@@ -32,7 +33,7 @@
 		"web-vitals": "^2.1.4"
 	},
 	"scripts": {
-		"start": "react-scripts start",
+		"start": "HOST=0.0.0.0 react-scripts start",
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"build": "react-scripts build",

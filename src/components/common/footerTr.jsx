@@ -11,26 +11,26 @@ const Footer = () => {
 				<div className="footer-links">
 					<ul className="footer-nav-link-list">
 						<li className="footer-nav-link-item">
-							<Link to="/">Home</Link>
+							<Link to="/tr">Ana Sayfa</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/about">About</Link>
+							<Link to="/tr/about">Hakkımda</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/projects">Projects</Link>
+							<Link to="/tr/projects">Projeler</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/articles">Articles</Link>
+							<Link to="/tr/articles">Yazılar</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/tr">Türkçe <Flag code="TR" size="S" /></Link>
+							<Link to="/">English <Flag code="GB-UKM" size="S" /></Link>
 						</li>
 					</ul>
 				</div>
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2024 kerem.ai - All Rights Reserved.
+						© 2024 kerem.ai - Tüm hakları saklıdır.
 					</div>
 				</div>
 			</div>

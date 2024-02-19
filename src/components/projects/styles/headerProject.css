@@ -1,8 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Cairo');
 
-body {
-  background-color: #010;
-}
+@import url('https://fonts.googleapis.com/css?family=Cairo');
 
 .header-project {
   font-family: "Cairo";
@@ -12,82 +9,60 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 72vh;
-  padding-bottom: 8vh;
+  padding-top: 10vh;
+  height: 70vh;
   letter-spacing: 1px;
   line-height:1.25;
+  width: 100%;
 }
 
-.header-project-mobile {
-  display: "none";
-}
-
-.h1-normal {
+h1 {
   background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
   background-size: cover;
   color: transparent;
   -moz-background-clip: text;
   -webkit-background-clip: text;
   background-clip: text;
-  margin: 10px 0;
 }
 
-.h1-mobile {
+.header-project-text-big {
+  font-size: 150px;
+}
+
+.header-project-text-big-mobile {
   display: none;
 }
 
-/* styling my button */
-
-.white-mode {
-  text-decoration: none;
-  padding: 7px 10px;
-  background-color: #122;
-  border-radius: 3px;
-  color: #FFF;
-  transition: .35s ease-in-out;
-  position: absolute;
-  left: 15px;
-  bottom: 15px;
-  font-family: "Montserrat";
+.header-project-text-big-2-mobile {
+  display: none;
 }
 
-.white-mode:hover {
-  background-color: #FFF;
-  color: #122;
+.header-project-text-small {
+  font-size: 100px;
 }
 
+.header-project-text-small-mobile {
+  display: none;
+}
 
 @media (max-width: 1024px) {
-  .header-project {
+  .header-project-text-big {
     display: none;
   }
-
-  .header-project-mobile {
-    font-family: "Cairo";
-    text-align: center;
-    color: #FFF;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 72vh;
-    padding-bottom: 8vh;
-    letter-spacing: 1px;
-    line-height:1.25;
+  .header-project-text-big-mobile {
+    display: block;
+    font-size: 90px;
   }
-
-	.h1-normal {
-		display: none;
-	}
-
-	.h1-mobile {
-		background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
-    background-size: cover;
-    color: transparent;
-    -moz-background-clip: text;
-    -webkit-background-clip: text;
-    background-clip: text;
-    margin: 10px 0;
-	}
+  .header-project-text-big-2-mobile {
+    display: block;
+    font-size: 80px;
+  }
+  .header-project-text-small {
+    display: none;
+  }
+  .header-project-text-small-mobile {
+    display: block;
+    font-size: 60px;
+  }
 }
 

@@ -1,17 +1,17 @@
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 
-import NavBar from "../components/common/navBar";
-import Footer from "../components/common/footer";
-import AllProjects from "../components/projects/allProjects";
-import HeaderProject from "../components/projects/headerProject";
+import NavBarTr from "../components/common/navBarTr";
+import FooterTr from "../components/common/footerTr";
+import AllProjectsTr from "../components/projects/allProjectsTr";
+import HeaderProjectTr from "../components/projects/headerProjectTr";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
 
 import "./styles/projects.css";
 
-const Projects = () => {
+const ProjectsTr = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
@@ -30,17 +30,16 @@ const Projects = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar active="projects" />
+				<NavBarTr active="projects" />
 				<div className="content-wrapper">
-					<HeaderProject />	
+					<HeaderProjectTr />	
 					<div className="projects-container">
-						
 						<div className="projects-list">
-							<AllProjects />
+							<AllProjectsTr />
 						</div>
 					</div>
 					<div className="page-footer">
-						<Footer />
+						<FooterTr />
 					</div>
 				</div>
 			</div>
@@ -48,4 +47,4 @@ const Projects = () => {
 	);
 };
 
-export default Projects;
+export default ProjectsTr;

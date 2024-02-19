@@ -4,7 +4,7 @@ import Flag from "react-flagpack";
 
 import "./styles/navBar.css";
 
-const NavBar = (props) => {
+const NavBarTr = (props) => {
 	const { active } = props;
 
 	return (
@@ -20,7 +20,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/">Home</Link>
+								<Link to="/tr">Ana Sayfa</Link>
 							</li>
 							<li
 								className={
@@ -29,7 +29,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/about">About</Link>
+								<Link to="/tr/about">Hakkımda</Link>
 							</li>
 							<li
 								className={
@@ -38,7 +38,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/projects">Projects</Link>
+								<Link to="/tr/projects">Projeler</Link>
 							</li>
 							<li
 								className={
@@ -47,7 +47,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/articles">Articles</Link>
+								<Link to="/tr/articles">Yazılar</Link>
 							</li>
 							<li
 								className={
@@ -56,7 +56,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/tr">Türkçe <Flag code="TR" size="S" /></Link>
+								<Link to="/">English <Flag code="GB-UKM" size="S" /></Link>
 							</li>
 						</ul>
 					</div>
@@ -66,4 +66,4 @@ const NavBar = (props) => {
 	);
 };
 
-export default NavBar;
+export default NavBarTr;

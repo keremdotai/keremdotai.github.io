@@ -5,21 +5,15 @@ import "./styles/headerProject.css";
 
 const HeaderProject = () => {
 	return (
-		<div>
-			<div class="header-project">
-				<h1 className="h1-normal">
-					<div style={{fontSize: "150px"}}>Universe</div>
-					<div style={{fontSize: "60px"}}>of an</div>
-					<div style={{fontSize: "150px"}}>Engineer</div>
-				</h1>
-			</div>
-			<div class="header-project-mobile">
-				<h1 className="h1-mobile">
-					<div style={{fontSize: "90px"}}>Universe</div>
-					<div style={{fontSize: "50px"}}>of an</div>
-					<div style={{fontSize: "90px"}}>Engineer</div>
-				</h1>
-			</div>
+		<div class="header-project">
+			<h1>
+				<div className="header-project-text-big">Universe</div>
+				<div className="header-project-text-big-mobile">Universe</div>
+				<div className="header-project-text-small">of an</div>
+				<div className="header-project-text-small-mobile">of an</div>
+				<div className="header-project-text-big">Engineer</div>
+				<div className="header-project-text-big-mobile">Engineer</div>
+			</h1>
 		</div>
 	);
 };

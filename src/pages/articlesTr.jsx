@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 
-import NavBar from "../components/common/navBar";
-import Footer from "../components/common/footer";
-import Article from "../components/articles/article";
+import NavBarTr from "../components/common/navBarTr";
+import FooterTr from "../components/common/footerTr";
+import ArticleTr from "../components/articles/articleTr";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -11,7 +11,7 @@ import myArticles from "../data/articles";
 
 import "./styles/articles.css";
 
-const Articles = () => {
+const ArticlesTr = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
@@ -30,19 +30,19 @@ const Articles = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar active="articles" />
+				<NavBarTr active="articles" />
 				<div className="content-wrapper">
 					<div className="articles-main-container">
 						<div className="title articles-title">
-							Blog posts, research papers, stories, and more.
+							Blog postları, araştırma yazıları, hikayeler ve daha fazlası.
 						</div>
 
 						<div className="subtitle articles-subtitle">
-							Here you can find my thoughts on many subjects, my research outputs, and the stories and scenarios I have written.
+							Burada farklı konulardaki düşüncelerimi, araştırma çıktılarımı ve yazdığım yazıları ve senaryoları bulabilirsiniz.
 						</div>
 
 						<div className="paragraph">
-							Contents may vary according to the language option. Click <a href="/#/tr/articles" style={{textDecoration: "none", color: "#ff9a3c"}}><b>here</b></a> for Turkish contents.
+							Dil seçeneğine göre içerikler değişebilmektedir. İngilizce içerikler için <a href="/#/articles" style={{textDecoration: "none", color: "#ff9a3c"}}><b>buraya</b></a> tıklayınız.
 						</div>
 
 						<div className="articles-container">
@@ -52,7 +52,7 @@ const Articles = () => {
 										className="articles-article"
 										key={(index + 1).toString()}
 									>
-										<Article
+										<ArticleTr
 											key={(index + 1).toString()}
 											date={article().date}
 											title={article().title}
@@ -65,7 +65,7 @@ const Articles = () => {
 						</div>
 					</div>
 					<div className="page-footer">
-						<Footer />
+						<FooterTr />
 					</div>
 				</div>
 			</div>
@@ -73,4 +73,4 @@ const Articles = () => {
 	);
 };
 
-export default Articles;
+export default ArticlesTr;

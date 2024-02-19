@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 
-import NavBar from "../components/common/navBar";
-import Footer from "../components/common/footer";
+import NavBarTr from "../components/common/navBarTr";
+import FooterTr from "../components/common/footerTr";
 import HeaderHome from "../components/homepage/headerHome";
 
 import INFO from "../data/user";
@@ -10,7 +10,7 @@ import SEO from "../data/seo";
 
 import "./styles/homepage.css";
 
-const Homepage = () => {
+const HomepageTr = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
@@ -29,12 +29,12 @@ const Homepage = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar active="home" />
+				<NavBarTr active="home" />
 				<div className="content-wrapper">
 					<HeaderHome />
 					<div className="homepage-container">
 						<div className="page-footer">
-							<Footer />
+							<FooterTr />
 						</div>
 					</div>
 				</div>
@@ -43,4 +43,4 @@ const Homepage = () => {
 	);
 };
 
-export default Homepage;
+export default HomepageTr;
