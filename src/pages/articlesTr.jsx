@@ -7,7 +7,7 @@ import ArticleTr from "../components/articles/articleTr";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
-import myArticles from "../data/articles";
+import myArticlesTr from "../data/articlesTr";
 
 import "./styles/articles.css";
 
@@ -16,7 +16,7 @@ const ArticlesTr = () => {
 		window.scrollTo(0, 0);
 	}, []);
 
-	const currentSEO = SEO.find((item) => item.page === "articles");
+	const currentSEO = SEO.find((item) => item.page === "tr/articles");
 
 	return (
 		<React.Fragment>
@@ -47,7 +47,7 @@ const ArticlesTr = () => {
 
 						<div className="articles-container">
 							<div className="articles-wrapper">
-								{myArticles.map((article, index) => (
+								{myArticlesTr.map((article, index) => (
 									<div
 										className="articles-article"
 										key={(index + 1).toString()}
@@ -57,7 +57,7 @@ const ArticlesTr = () => {
 											date={article().date}
 											title={article().title}
 											description={article().description}
-											link={"/article/" + (index + 1)}
+											link={"/tr/article/" + (index + 1)}
 										/>
 									</div>
 								))}

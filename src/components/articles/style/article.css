@@ -62,8 +62,8 @@
 	}
 
 	.article-right-side {
-		flex-basis: 90%;
-		min-width: 85%;
-		max-width: 85%;
+		flex-basis: 80%;
+		min-width: 75%;
+		max-width: 75%;
 	}
 }

@@ -15,7 +15,7 @@ const HomepageTr = () => {
 		window.scrollTo(0, 0);
 	}, []);
 
-	const currentSEO = SEO.find((item) => item.page === "home");
+	const currentSEO = SEO.find((item) => item.page === "tr/home");
 
 	return (
 		<React.Fragment>

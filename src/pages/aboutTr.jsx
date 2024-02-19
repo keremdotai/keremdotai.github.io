@@ -22,7 +22,7 @@ const AboutTr = () => {
 		window.scrollTo(0, 0);
 	}, []);
 
-	const currentSEO = SEO.find((item) => item.page === "about");
+	const currentSEO = SEO.find((item) => item.page === "tr/about");
 
 	return (
 		<React.Fragment>

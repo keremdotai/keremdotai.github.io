@@ -7,7 +7,7 @@ import INFO from "../data/user";
 
 import "./styles/404.css";
 
-const Notfound = () => {
+const NotfoundTr = () => {
 	useEffect(() => {
 		document.title = `404 | ${INFO.main.title}`;
 	}, []);
@@ -20,19 +20,19 @@ const Notfound = () => {
 					<div className="notfound-container">
 						<div className="notfound-message">
 							<div className="notfound-title">
-								Oops! <FontAwesomeIcon icon={faFaceSadTear} />
+								Haydaaa! <FontAwesomeIcon icon={faFaceSadTear} />
 							</div>
 							<div className="not-found-message">
-								We can't seem to find the page you're looking for.
+								Aradığın sayfayı bulamadık.
 								<br />
-								The requested URL
+								Ulaşmaya çalıştığın URL
 								<br />
 								<div className="not-found-error-link">{window.location.href}</div>
 								<br />
-								was not found on this server.
+								bu sunucuda bulunamadı.
 							</div>
-							<a href="/" className="not-found-link">
-								Go back to the home page
+							<a href="/#/tr" className="not-found-link">
+								Ana sayfaya geri dön
 							</a>
 						</div>
 					</div>
@@ -42,4 +42,4 @@ const Notfound = () => {
 	);
 };
 
-export default Notfound;
+export default NotfoundTr;

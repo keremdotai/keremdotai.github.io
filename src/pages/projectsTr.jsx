@@ -16,7 +16,7 @@ const ProjectsTr = () => {
 		window.scrollTo(0, 0);
 	}, []);
 
-	const currentSEO = SEO.find((item) => item.page === "projects");
+	const currentSEO = SEO.find((item) => item.page === "tr/projects");
 
 	return (
 		<React.Fragment>

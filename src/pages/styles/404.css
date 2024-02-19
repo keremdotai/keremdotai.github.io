@@ -53,11 +53,21 @@
 	text-align: center;
 }
 
+.not-found-error-link {
+	display: inline;
+	color: #ff9a3c;
+	text-decoration: none;
+	text-emphasis: bold;
+	font-size: 2rem;
+	margin: 2rem 0;
+	text-align: center;
+}
+
 .not-found-link {
 	font-size: 1.5rem;
 	text-decoration: none;
 	color: #fff;
-	background-color: var(--link-color);
+	background-color: #13a5da;
 	padding: 1rem 2rem;
 	border-radius: 50px;
 	transition: all 0.3s ease-in-out;
@@ -65,7 +75,7 @@
 
 .not-found-link:hover {
 	background-color: #fff;
-	color: var(--link-color);
+	color: #13a5da;
 	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
 }
 
