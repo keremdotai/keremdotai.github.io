@@ -117,16 +117,25 @@ const About = () => {
 
 					{/* Days I Code Personally Section */}
 					<h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-						Days I <strong className="purple">Code Personally</strong>
+						<strong className="purple">GitHub</strong> Activity
 					</h1>
 
 					<Container fluid className="about-section">
 						<GithubStats />
 					</Container>
 
+					<div className="warning-note">
+						<b style={{color: "#ffa41c"}}>Note:</b> Most of my professional work since November 2024
+						has been done in private Bitbucket repositories.
+						These contributions are not reflected in this GitHub activity graph.
+						Starting from <strong>April 30, 2025</strong>, I will maintain a public dummy repository on GitHub to log metadata of
+						my Bitbucket commits (without content or messages) — solely to reflect my ongoing activity
+						in this contribution graph.
+					</div>
+
 					{/* Resume Section */}
 					<h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-						<strong className="purple">Resume</strong>
+						<strong style={{color: "#c770f0"}}>Resume</strong>
 					</h1>
 
 					<Container fluid className="about-section">

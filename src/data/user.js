@@ -3,16 +3,14 @@ const INFO = {
 		title: "kerem.ai",
 		name: "Kerem Avcı",
 		email: "mkeremavci@gmail.com",
-		emailVitamu: "kerem@vitamu.com",
-		emailMaynad: "kerem@maynardvision.com",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/keremdotpy",
+		bluesky: "https://bsky.app/profile/keremdotpy.bsky.social",
 		instagram: "https://instagram.com/keremdotpy",
-		githubPersonal: "https://github.com/mkeremavci",
-		githubWork: "https://github.com/keremdotmu",
-		linkedin: "https://www.linkedin.com/in/mkeremavci/",
+		github: "https://github.com/mkeremavci",
+		linkedin: "https://www.linkedin.com/in/keremdotai/",
 	},
 };
 

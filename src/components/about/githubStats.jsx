@@ -1,3 +1,7 @@
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the GithubStats component for the website.
+// It displays the user's GitHub activity calendar.
+
 import React from "react";
 import GitHubCalendar from "react-github-calendar";
 import { Row } from "react-bootstrap";

@@ -73,6 +73,15 @@
 	margin-top: 10px;
 }
 
+.warning-note {
+	color: var(--secondary-color);
+	font-size: 18px;
+	line-height: 24px;
+	width: 90%;
+	margin-top: 10px;
+	margin-left: 5%;
+}
+
 .page-footer {
 	position: block;
 }

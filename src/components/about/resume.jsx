@@ -1,3 +1,7 @@
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the Resume component for the website.
+// It displays the user's resume.
+
 import React from "react";
 import { Row, Button } from "react-bootstrap";
 import { AiOutlineDownload } from "react-icons/ai";

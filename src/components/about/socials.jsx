@@ -1,7 +1,12 @@
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the Socials component for the website.
+// It displays the user's social media accounts.
+
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import { faTwitter, faGithub, faLinkedin, faInstagram } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faBluesky, faXTwitter, faLinkedin, faInstagram } from "@fortawesome/free-brands-svg-icons";
+// import { FaBluesky } from "react-icons/fa6";
 
 import INFO from "../../data/user";
 import "./styles/socials.css";
@@ -14,11 +19,23 @@ const Socials = () => {
 				<a href={INFO.socials.twitter} target="_blank" rel="noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
-							icon={faTwitter}
+							icon={faXTwitter}
 							className="social-icon"
 						/>
 					</div>
-					<div className="social-text">Py in Twitter</div>
+					<div className="social-text">keremdotpy</div>
+				</a>
+			</div>
+			{/* Bluesky */}
+			<div className="social" style={{paddingBottom: "5px"}}>
+				<a href={INFO.socials.bluesky} target="_blank" rel="noreferrer">
+					<div className="social-icon">
+						<FontAwesomeIcon
+							icon={faBluesky}
+							className="social-icon"
+						/>
+					</div>
+					<div className="social-text">keremdotpy.bsky.social</div>
 				</a>
 			</div>
 			{/* Instagram */}
@@ -30,31 +47,19 @@ const Socials = () => {
 							className="social-icon"
 						/>
 					</div>
-					<div className="social-text">Py in Instagram</div>
+					<div className="social-text">keremdotpy</div>
 				</a>
 			</div>
 			{/* Personal GitHub Account */}
 			<div className="social" style={{paddingBottom: "5px"}}>
-				<a href={INFO.socials.githubPersonal} target="_blank" rel="noreferrer">
+				<a href={INFO.socials.github} target="_blank" rel="noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
 							icon={faGithub}
 							className="social-icon"
 						/>
 					</div>
-					<div className="social-text">Personal GitHub Account</div>
-				</a>
-			</div>
-			{/* GitHub Account for Work */}
-			<div className="social" style={{paddingBottom: "5px"}}>
-				<a href={INFO.socials.githubWork} target="_blank" rel="noreferrer">
-					<div className="social-icon">
-						<FontAwesomeIcon
-							icon={faGithub}
-							className="social-icon"
-						/>
-					</div>
-					<div className="social-text">GitHub for Work</div>
+					<div className="social-text">mkeremavci</div>
 				</a>
 			</div>
 			{/* LinkedIn */}
@@ -66,7 +71,7 @@ const Socials = () => {
 							className="social-icon"
 						/>
 					</div>
-					<div className="social-text">LinkedIn Page</div>
+					<div className="social-text">in/keremdotai</div>
 				</a>
 			</div>
 			{/* Email */}
