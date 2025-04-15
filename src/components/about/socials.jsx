@@ -70,34 +70,13 @@ const Socials = () => {
 				</a>
 			</div>
 			{/* Email */}
-			<div className="email">
-				{/* Personal */}
-				<div className="email-wrapper">
-					<a href={`mailto:${INFO.main.email}`} target="_blank" rel="noreferrer">
-						<div className="social-icon">
-							<FontAwesomeIcon icon={faEnvelope} />
-						</div>
-						<div className="social-text">{INFO.main.email}</div>
-					</a>
-				</div>
-				{/* Vitamu */}
-				<div className="email-wrapper">
-					<a href={`mailto:${INFO.main.emailVitamu}`} target="_blank" rel="noreferrer">
-						<div className="social-icon">
-							<FontAwesomeIcon icon={faEnvelope} />
-						</div>
-						<div className="social-text">{INFO.main.emailVitamu}</div>
-					</a>
-				</div>
-				{/* Maynard Vision */}
-				<div className="email-wrapper">
-					<a href={`mailto:${INFO.main.emailMaynad}`} target="_blank" rel="noreferrer">
-						<div className="social-icon">
-							<FontAwesomeIcon icon={faEnvelope} />
-						</div>
-						<div className="social-text">{INFO.main.emailMaynad}</div>
-					</a>
-				</div>
+			<div className="email-wrapper">
+				<a href={`mailto:${INFO.main.email}`} target="_blank" rel="noreferrer">
+					<div className="social-icon">
+						<FontAwesomeIcon icon={faEnvelope} />
+					</div>
+					<div className="social-text">{INFO.main.email}</div>
+				</a>
 			</div>
 		</div>
 	);

@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 
-import NavBar from "../components/common/navBar";
+import Header from "../components/common/header";
 import Footer from "../components/common/footer";
 import AllProjects from "../components/projects/allProjects";
 import HeaderProject from "../components/projects/headerProject";
@@ -30,7 +30,7 @@ const Projects = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar active="projects" />
+				<Header active="projects" />
 				<div className="content-wrapper">
 					<HeaderProject />	
 					<div className="projects-container">

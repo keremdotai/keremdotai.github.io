@@ -1,37 +1,46 @@
-.content {
-	position: absolute;
-	height: 160px;
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the styles for the header component, 
+// including animations and layout for the header elements.
+// It defines the appearance and behavior of the header, 
+// including the header animation and navigation bar.
+
+.header-animation {
+	height: 15vh;
 	overflow: hidden;
+	position: relative;
 	
 	font-family: 'Lato', sans-serif;
-	font-size: 33px;
-	line-height: 40px;
+	font-size: 8vh;
+	line-height: 10vh;
 	color: #0c0c0c;
 	
 	&__container {
 		font-weight: 600;
 		overflow: hidden;
-		height: 40px;
-		padding: 0 32px;
+		height: 10vh;
+		position: relative;
+		padding: 0vh 4vw;
 
 		&:before {
 			content: '[';
+			position: absolute;
 			left: 0;
+			top: 0;
+			z-index: 1;
 		}
 
 		&:after {
 			content: ']';
 			position: absolute;
 			right: 0;
+			top: 0;
+			z-index: 1;
 		}
 
 		&:after, &:before {
-			position: absolute;
-			top: 0;
-			
 			color: #13a5da;
-			font-size: 42px;
-			line-height: 40px;
+			font-size: 8vh;
+			line-height: 10vh;
 			
 			-webkit-animation-name: opacity;
 			-webkit-animation-duration: 2s;
@@ -49,7 +58,7 @@
 
 		&__list {
 			margin-top: 0;
-			padding-left: 110px;
+			padding-left: 24vh;
 			text-align: left;
 			list-style: none;
 			
@@ -61,7 +70,7 @@
 			animation-iteration-count: infinite;
 
 			&__item {
-				line-height:40px;
+				line-height:10vh;
 				margin:0;
 			}
 		}

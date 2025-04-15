@@ -3,7 +3,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import { Helmet } from "react-helmet";
 import styled from "styled-components";
 
-import NavBar from "../components/common/navBar";
+import Header from "../components/common/header";
 import Footer from "../components/common/footer";
 
 import INFO from "../data/user";
@@ -36,7 +36,7 @@ const ReadArticle = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar />
+				<Header active="stories" />
 
 				<div className="content-wrapper">
 					<div className="read-article-container">

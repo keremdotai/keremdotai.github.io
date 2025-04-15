@@ -1,0 +1,88 @@
+/* © 2025 kerem.ai · All rights reserved. */
+/*
+This file contains the styles for the header component, 
+including animations and layout for the header elements.
+It defines the appearance and behavior of the header, 
+including the header animation and navigation bar.
+*/
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f8f8;
+    padding: 2vh;
+}
+
+.header-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-nav {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+    overflow: hidden;
+    z-index: 999;
+}
+
+.header-nav-background {
+	width: 88vw;
+	height: 4.4vh;
+	padding-left: 0%;
+	padding-right: 0%;
+	background: #fff;
+	box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+	border-radius: 2vh;
+}
+
+.header-nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+}
+
+/* Navbar items */
+
+.header-nav-item {
+    margin-top: 1vh;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+.header-nav-item.active a {
+	color: var(--link-color) !important;
+}
+
+.header-nav-item a {
+	text-decoration: none;
+	color: var(--primary-color);
+}
+
+.header-nav-item a:hover {
+	color: var(--link-color);
+	transition: color 0.3s ease-in-out;
+}
+
+@media (max-width: 1000px) {
+	.header-nav {
+		margin-left: 25%;
+		margin-right: 25%;
+		width: 100%;
+		font-size: 100%;
+	}
+
+	.header-nav-background {
+		width: 88%;
+	}
+
+	.header-nav-item {
+		font-weight: bold;
+	}
+}

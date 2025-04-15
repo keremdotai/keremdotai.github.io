@@ -9,11 +9,11 @@ const explicitTheme = {
   dark: ['#f0f0f0', '#f0dcfa', '#e6bbfa', '#d885ff', "#c770f0"],
 };
 
-function GithubWork() {
+function GithubStats() {
   return (
     <Row className="github-row">
       <GitHubCalendar
-        username="keremdotmu"
+        username="mkeremavci"
         blockSize={12}
         blockMargin={5}
         theme={explicitTheme}
@@ -23,4 +23,4 @@ function GithubWork() {
   );
 }
 
-export default GithubWork;
+export default GithubStats;

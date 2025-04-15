@@ -1,7 +1,11 @@
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the footer component for the website.
+// It includes the footer links and credits.
+
 import React from "react";
 import { Link } from "react-router-dom";
-import Flag from "react-flagpack";
 
+// Styles
 import "./styles/footer.css";
 
 const Footer = () => {
@@ -20,17 +24,14 @@ const Footer = () => {
 							<Link to="/projects">Projects</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/articles">Articles</Link>
-						</li>
-						<li className="footer-nav-link-item">
-							<Link to="/tr">Türkçe <Flag code="TR" size="S" /></Link>
+							<Link to="/articles">Stories</Link>
 						</li>
 					</ul>
 				</div>
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2024 kerem.ai - All Rights Reserved.
+						© 2025 kerem.ai · All Rights Reserved.
 					</div>
 				</div>
 			</div>

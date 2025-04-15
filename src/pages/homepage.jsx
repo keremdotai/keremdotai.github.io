@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 
-import NavBar from "../components/common/navBar";
+import Header from "../components/common/header";
 import Footer from "../components/common/footer";
 import HeaderHome from "../components/homepage/headerHome";
 
@@ -19,6 +19,7 @@ const Homepage = () => {
 
 	return (
 		<React.Fragment>
+			{/* SEO */}
 			<Helmet>
 				<title>{INFO.main.title}</title>
 				<meta name="description" content={currentSEO.description} />
@@ -28,8 +29,10 @@ const Homepage = () => {
 				/>
 			</Helmet>
 
+			{/* Page Content */}
 			<div className="page-content">
-				<NavBar active="home" />
+				{/* <NavBar active="home" /> */}
+				<Header active="home" />
 				<div className="content-wrapper">
 					<HeaderHome />
 					<div className="homepage-container">

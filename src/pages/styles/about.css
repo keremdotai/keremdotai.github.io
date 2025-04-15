@@ -1,32 +1,28 @@
+/* © 2025 kerem.ai · All rights reserved. */
+/* This file contains the styles for the about page. */
+
 .about-container {
 	display: flex;
 	flex-direction: column;
 	height: 100%;
 	margin: 0;
-	padding-top: 120px;
+	padding-top: 4vh;
 }
 
 .about-main {
 	display: flex;
 }
 
-.about-right-side {
+.about-left-side {
 	flex-basis: 900px;
 }
 
 .about-title {
-	width: 100% !important;
-	padding-top: 20px;
-	padding-bottom: 40px;
+	width: 90% !important;
+
 }
 
-.about-subtitle {
-	width: 80% !important;
-	font-size: 40px;
-	padding-bottom: 20px;
-}
-
-.about-left-side {
+.about-right-side {
 	display: flex;
 	flex-direction: column;
 	flex-basis: 240px;
