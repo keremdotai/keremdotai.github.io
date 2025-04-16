@@ -1,10 +1,12 @@
+/* © 2025 kerem.ai · All rights reserved. */
+/* This file contains the styles for the articles page. */
 
 .articles-main-container {
 	display: flex;
 	flex-direction: column;
 	height: 100%;
 	margin: 0;
-	padding-top: 120px;
+	padding-top: 6vh;
 }
 
 .articles-container {
@@ -13,8 +15,7 @@
 }
 
 .articles-wrapper {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	
 	display: flex;
 	flex-direction: column;
 }
@@ -24,7 +25,7 @@
 	padding-left: 35px;
 	padding-bottom: 20px;
 	border-left: 2px solid #f4f4f5;
-	width: 100%;
+	width: 80%;
 }
 
 @media (max-width: 1024px) {

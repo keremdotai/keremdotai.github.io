@@ -1,5 +1,7 @@
-@import "../../data/styles.css";
+/* © 2025 kerem.ai · All rights reserved. */
+/* This file contains the styles for the homepage. */
 
+@import "../../data/styles.css";
 
 .homepage-container {
 	display: flex;

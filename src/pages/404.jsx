@@ -1,3 +1,6 @@
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the 404 page for the website.
+
 import React, { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFaceSadTear } from "@fortawesome/free-regular-svg-icons";

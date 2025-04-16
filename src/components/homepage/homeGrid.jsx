@@ -8,7 +8,12 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaArrowRight, FaArrowLeft } from 'react-icons/fa';
+
+// Data
 import PROJECTS from '../../data/projects';
+import myArticles from '../../data/articles';
+
+// Styles
 import './styles/homeGrid.css';
 
 const HomeGrid = () => {
@@ -56,11 +61,14 @@ const HomeGrid = () => {
 			link: project.link
 		}));
 
-	const stories = [
-		{ title: "Story 1", description: "Description of Story 1" },
-		{ title: "Story 2", description: "Description of Story 2" },
-		{ title: "Story 3", description: "Description of Story 3" }
-	];
+	const stories = [...myArticles]
+		.sort((a, b) => new Date(b().date_to_sort) - new Date(a().date_to_sort))
+		.slice(0, 5) // Show only the 5 latest projects
+		.map(article => ({
+			title: article().title,
+			description: article().description,
+			link: article().link
+		}));
 
 	return (
 		<div className="home-grid">

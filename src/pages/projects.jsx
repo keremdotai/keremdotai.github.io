@@ -82,7 +82,7 @@ const Projects = () => {
 
 						{/* Title */}
 						<div className="title" style={{ paddingBottom: "4vh" }}>
-							Projects & Ideas — Code in the Wild
+							Projects & ideas — code in the wild
 						</div>
 
 						{/* Introduction */}

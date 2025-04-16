@@ -1,3 +1,6 @@
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the articles page for the website.
+
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet";
 
@@ -12,6 +15,7 @@ import myArticles from "../data/articles";
 import "./styles/articles.css";
 
 const Articles = () => {
+	// This component renders the articles page for the website.
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
@@ -20,6 +24,7 @@ const Articles = () => {
 
 	return (
 		<React.Fragment>
+			{/* SEO */}
 			<Helmet>
 				<title>{`Articles | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
@@ -29,41 +34,55 @@ const Articles = () => {
 				/>
 			</Helmet>
 
+			{/* Page Content */}
 			<div className="page-content">
-				<Header active="articles" />
+				{/* Header */}
+				<Header active="stories" />
+
+				{/* Content Wrapper */}
 				<div className="content-wrapper">
+					{/* Main Container */}
 					<div className="articles-main-container">
-						<div className="title articles-title">
-							Blog posts, research papers, stories, and more.
+	
+						{/* Title */}
+						<div className="title" style={{ paddingBottom: "4vh" }}>
+							Scenes uncompiled
 						</div>
 
-						<div className="subtitle articles-subtitle">
-							Here you can find my thoughts on many subjects, my research outputs, and the stories and scenarios I have written.
+						{/* Introduction */}
+						<div className="paragraph" style={{ paddingBottom: "4vh" }}>
+						These are stories written outside the scope of engineering — fiction, fragments,
+						and screenplays shaped by imagination rather than logic.
+						Some are personal, others entirely invented, but all come from a desire to
+						explore language, character, and meaning. <strong className="purple">
+							All stories are written in Turkish.
+						</strong> Translations may come later —
+						or maybe they'll stay exactly as they are.
 						</div>
 
-						<div className="paragraph">
-							Contents may vary according to the language option. Click <a href="/#/tr/articles" style={{textDecoration: "none", color: "#ff9a3c"}}><b>here</b></a> for Turkish contents.
-						</div>
-
+						{/* Articles Container */}
 						<div className="articles-container">
 							<div className="articles-wrapper">
-								{myArticles.map((article, index) => (
-									<div
-										className="articles-article"
-										key={(index + 1).toString()}
-									>
-										<Article
-											key={(index + 1).toString()}
-											date={article().date}
-											title={article().title}
-											description={article().description}
-											link={"/article/" + (index + 1)}
-										/>
-									</div>
-								))}
+								{myArticles
+									.sort((a, b) => new Date(b().date_to_sort) - new Date(a().date_to_sort))
+									.map((article, index) => (
+										<div
+											className="articles-article"
+											key={article().link}
+										>
+											<Article
+												date={article().date}
+												title={article().title}
+												description={article().description}
+												link={"/story/" + article().link}
+											/>
+										</div>
+									))}
 							</div>
 						</div>
 					</div>
+
+					{/* Footer */}
 					<div className="page-footer">
 						<Footer />
 					</div>

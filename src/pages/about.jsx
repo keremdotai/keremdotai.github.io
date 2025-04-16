@@ -52,8 +52,8 @@ const About = () => {
 				<div className="content-wrapper">
 					<div className="about-container">
 						{/* Title */}
-						<div className="title about-title">
-							Machine Learning enthusiast, full-time engineer, lifelong cat dad, and a relentless learner.
+						<div className="title about-title" style={{ paddingBottom: "4vh" }}>
+							Machine Learning enthusiast, full-time engineer, lifelong cat dad, and a relentless learner
 						</div>
 						{/* Content - Paragraphs */}
 						<div className="paragraph">
