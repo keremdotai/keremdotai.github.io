@@ -76,7 +76,33 @@
 		}
 	}
 }
-  
+
+@media (max-width: 600px) {
+	.header-animation {
+		height: 7.5vh;
+		font-size: 4vh;
+		line-height: 5vh;
+
+		&__container {
+			height: 5vh;
+			padding: 0vh 6vw;
+
+			&:after, &:before {
+				font-size: 4vh;
+				line-height: 5vh;
+			}
+
+			&__list {
+				padding-left: 12vh;
+
+				&__item {
+					line-height: 5vh;
+				}
+			}
+		}
+	}
+}
+
 @-webkit-keyframes opacity {
 	0%, 100% {opacity:0;}
 	50% {opacity:1;}
