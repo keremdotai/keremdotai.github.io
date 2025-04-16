@@ -2,6 +2,20 @@
 /* This file contains the styles for the Socials component. */
 
 @import "../../../data/styles.css";
+
+.socials {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+@media (max-width: 600px) {
+	.socials {
+		flex-direction: column;
+		justify-content: center;
+	}
+}
+
 .social,
 .email-wrapper {
 	display: flex;
@@ -14,16 +28,16 @@
 }
 
 .social-icon {
-	font-size: 15px;
-	color: var(--secondary-color);
+	font-size: 22px;
+	color: #ffa41c;
 }
 
 .social-text {
 	color: var(--secondary-color);
-	padding-left: 20px;
-	margin-top: -22px;
+	padding-left: 32px;
+	margin-top: -30px;
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 18px;
 }
 
 .email::before {

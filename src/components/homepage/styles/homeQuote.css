@@ -1,0 +1,90 @@
+.quote-container {
+    width: 100%;
+    padding: 80px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-content {
+    max-width: 800px;
+    text-align: center;
+    position: relative;
+}
+
+.quote-content::before {
+    content: '"';
+    position: absolute;
+    top: -40px;
+    left: -20px;
+    font-size: 120px;
+    color: rgba(0, 0, 0, 0.1);
+    font-family: serif;
+    line-height: 1;
+}
+
+.quote-text {
+    font-size: 2.2em;
+    font-weight: 300;
+    line-height: 1.4;
+    color: #333;
+    /* margin-bottom: 30px; */
+    font-style: italic;
+}
+
+.quote-attribution {
+    display: flex;
+    flex-direction: column;
+}
+
+.original-author {
+    font-size: 1.1em;
+    color: #333;
+    font-weight: 500;
+    font-style: italic;
+    margin-left: 20%;
+}
+
+.secondary-author {
+    font-size: 1.3em;
+    color: #666;
+    font-weight: 500;
+    font-style: italic;
+    margin-left: 40%;
+}
+
+.your-attribution {
+    font-size: 1.5em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-style: italic;
+    margin-left: 60%;
+}
+
+@media (max-width: 768px) {
+    .quote-container {
+        padding: 60px 20px;
+    }
+
+    .quote-text {
+        font-size: 1.8em;
+    }
+
+    .quote-content::before {
+        font-size: 80px;
+        top: -30px;
+        left: -10px;
+    }
+
+    .original-author {
+        font-size: 1em;
+    }
+
+    .secondary-author {
+        font-size: 1.2em;
+    }
+
+    .your-attribution {
+        font-size: 1.3em;
+    }
+}

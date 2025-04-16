@@ -1,0 +1,142 @@
+/* © 2025 kerem.ai · All rights reserved. */
+/*
+This file contains the grid for the homepage.
+First column is the projects, second column is the stories.
+Each box is a card with a title, description, and a link.
+Besides, we can swipe the cards to see the next one.
+In the mobile version, the grid is displayed vertically.
+*/
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  padding: 40px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.column h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 16/9;
+  position: relative;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.card-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #333333;
+}
+
+.card-description {
+  font-size: 1.2em;
+  color: #666;
+  line-height: 1.6;
+  flex: 1;
+}
+
+.category-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: #c770f0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  z-index: 2;
+  border-radius: 16px 16px 0 0;
+}
+
+.category-bar h2 {
+  color: #fff;
+  font-size: 1.2em;
+  margin: 0;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.nav-button {
+  position: relative;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 3;
+  transition: all 0.3s ease;
+  margin: 0;
+}
+
+.nav-button:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+.nav-button svg {
+  color: #fff;
+  font-size: 1em;
+}
+
+@media (max-width: 768px) {
+  .home-grid {
+    grid-template-columns: 1fr;
+    padding: 20px;
+  }
+
+  .card {
+    aspect-ratio: 4/3;
+  }
+}

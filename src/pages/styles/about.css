@@ -6,15 +6,11 @@
 	flex-direction: column;
 	height: 100%;
 	margin: 0;
-	padding-top: 4vh;
+	padding-top: 6vh;
 }
 
 .about-main {
 	display: flex;
-}
-
-.about-left-side {
-	flex-basis: 900px;
 }
 
 .about-title {
@@ -22,14 +18,7 @@
 
 }
 
-.about-right-side {
-	display: flex;
-	flex-direction: column;
-	flex-basis: 240px;
-}
-
 .about-socials {
-	padding-top: 100px;
 	padding-bottom: 50px;
 }
 
@@ -96,6 +85,14 @@
 	padding-top: 10px !important;
 }
 
-.purple {
+.light-blue {
 	color: #13a5da !important;
+}
+
+.purple {
+	color: #c770f0 !important;
+}
+
+.orange {
+	color: #ffa41c !important;
 }
