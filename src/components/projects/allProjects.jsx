@@ -1,14 +1,15 @@
+/* © 2025 kerem.ai · All rights reserved. */
+/* This file contains the all projects component. */
+
 import React from "react";
 
 import Project from "./project";
-import PROJECTS from "../../data/projects";
-
 import "./styles/allProjects.css";
 
-const AllProjects = () => {
+const AllProjects = ({ projects }) => {
 	return (
 		<div className="all-projects-container">
-			{PROJECTS.map((project, index) => (
+			{projects.map((project, index) => (
 				<div className="all-projects-project" key={index}>
 					<Project
 						logo={project.logo}
@@ -16,6 +17,7 @@ const AllProjects = () => {
 						description={project.description}
 						linkText={project.linkText}
 						link={project.link}
+						status={project.status}
 					/>
 				</div>
 			))}

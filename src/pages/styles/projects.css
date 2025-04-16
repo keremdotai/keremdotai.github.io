@@ -1,10 +1,53 @@
+/* © 2025 kerem.ai · All rights reserved. */
+/* This file contains the styles for the projects page. */
 
 .projects-container {
 	display: flex;
 	flex-direction: column;
 	height: 100%;
 	margin: 0;
-	padding-top: 120px;
+	padding-top: 6vh;
+}
+
+.category-section {
+	padding: 10px 40px 10px 10px;
+}
+
+.category-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	cursor: pointer;
+	padding: 15px 20px;
+	background-color: #ffffff;
+	border-radius: 8px;
+	margin-bottom: 10px;
+	transition: background-color 0.3s ease;
+}
+
+.category-header:hover {
+	background-color: #c770f0c4;
+}
+
+.category-title {
+	font-family: var(--secondary-font);
+	color: var(--primary-color);
+	font-size: 24px;
+	margin: 0;
+}
+
+.category-toggle-icon {
+	color: var(--secondary-color);
+	font-size: 16px;
+	transition: transform 0.3s ease;
+}
+
+.projects-list {
+	display: grid;
+	justify-content: start;
+	grid-template-columns: 1fr auto;
+	gap: 20px;
+	width: 100%;
 }
 
 @media (max-width: 600px) {
@@ -12,7 +55,11 @@
 		padding-top: 60px;
 	}
 
-	.projects-project {
-		width: calc(100% / 2);
+	.category-section {
+		padding: 0 10px;
+	}
+
+	.category-title {
+		font-size: 20px;
 	}
 }

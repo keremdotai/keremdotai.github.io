@@ -8,6 +8,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaArrowRight, FaArrowLeft } from 'react-icons/fa';
+import PROJECTS from '../../data/projects';
 import './styles/homeGrid.css';
 
 const HomeGrid = () => {
@@ -45,11 +46,15 @@ const HomeGrid = () => {
 		}
 	};
 
-	const projects = [
-		{ title: "Project 1", description: "Description of Project 1" },
-		{ title: "Project 2", description: "Description of Project 2" },
-		{ title: "Project 3", description: "Description of Project 3" }
-	];
+	// Get latest projects sorted by date
+	const projects = [...PROJECTS]
+		.sort((a, b) => new Date(b.date) - new Date(a.date))
+		.slice(0, 5) // Show only the 5 latest projects
+		.map(project => ({
+			title: project.title,
+			description: project.description,
+			link: project.link
+		}));
 
 	const stories = [
 		{ title: "Story 1", description: "Description of Story 1" },
@@ -77,7 +82,7 @@ const HomeGrid = () => {
 						animate="center"
 						exit="exit"
 						className="card"
-						onClick={() => window.location.href = '#'}
+						onClick={() => window.location.href = projects[currentProject].link}
 					>
 						<div className="card-content">
 							<div className="card-title">{projects[currentProject].title}</div>
