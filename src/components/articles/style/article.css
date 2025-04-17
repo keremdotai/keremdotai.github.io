@@ -11,11 +11,12 @@
 .article-left-side {
 	min-width: 20%;
 	max-width: 20%;
+	padding-right: 10%;
 }
 
 .article-right-side {
-	flex-basis: 80%;
-	min-width: 700px;
+	flex-basis: 75%;
+	min-width: 70%;
 	mix-blend-mode: normal;
 	border-radius: 20px;
 	opacity: 0.8;
@@ -57,13 +58,22 @@
 
 @media (max-width: 1024px) {
 	.article-left-side {
-		min-width: 10%;
-		max-width: 10%;
+		min-width: 5%;
+		max-width: 5%;
+		display: flex;
+		align-items: center;
+		
+	}
+
+	.article-date {
+		font-size: 14px;
+		writing-mode: vertical-rl;
+		transform: rotate(180deg);
 	}
 
 	.article-right-side {
-		flex-basis: 80%;
-		min-width: 75%;
-		max-width: 75%;
+		flex-basis: 90%;
+		min-width: 90%;
+		max-width: 90%;
 	}
 }

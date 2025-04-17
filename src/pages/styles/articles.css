@@ -15,7 +15,6 @@
 }
 
 .articles-wrapper {
-	
 	display: flex;
 	flex-direction: column;
 }
@@ -35,5 +34,9 @@
 
 	.articles-subtitle {
 		width: 100% !important;
+	}
+
+	.articles-article {
+		padding-left: 10px;
 	}
 }

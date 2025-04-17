@@ -52,7 +52,7 @@
 
 @media (max-width: 600px) {
 	.projects-container {
-		padding-top: 60px;
+		padding-top: 6vh;
 	}
 
 	.category-section {

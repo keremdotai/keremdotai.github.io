@@ -47,7 +47,7 @@ const Homepage = () => {
 				<div className="content-wrapper">
 					<div className="homepage-container">
 						{/* Title */}
-						<div className="subtitle" style={{ marginLeft: "5%" }}>
+						<div className="subtitle homepage-subtitle">
 							Hey, I’m Kerem — a full-time ML engineer, open-source explorer, and cat dad based in Istanbul.
 							I build deep learning systems that run in the real world — from embedded AI to cloud-native ML infra.
 							This site is my digital workspace, where I share what I’ve built, what I’ve broken,

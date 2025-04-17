@@ -11,6 +11,18 @@
     align-items: normal;
 }
 
+.resume-button {
+    background: none !important; /* Remove background */
+    border: none !important; /* Remove border */
+    color: #c770f0; /* Keep the text color */
+    font-size: 24px; /* Keep the font size */
+    padding: 10px 20px; /* Adjust padding as needed */
+}
+
+.resume-button:hover {
+    color: #a55bcf; /* Change color on hover */
+}
+
 @media (max-width: 767px) {
     .resume-row {
         padding-bottom: 20px !important;

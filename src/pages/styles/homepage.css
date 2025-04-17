@@ -19,10 +19,12 @@
 }
 
 .homepage-title {
+	margin-left: 5%;
 	width: 85% !important;
 }
 
 .homepage-subtitle {
+	margin-left: 5%;
 	width: 85% !important;
 }
 
@@ -37,15 +39,11 @@
 	}
 
 	.homepage-title {
-		width: 100% !important;
-		margin-top: 20px;
-		order: 2;
+		width: 80 !important;
 	}
 
 	.homepage-subtitle {
-		width: 100% !important;
-		margin-top: 10px;
-		order: 3;
+		width: 80% !important;
 	}
 
 	.homepage-after-title {

@@ -104,11 +104,11 @@ In the mobile version, the grid is displayed vertically.
   color: var(--secondary-color);
   font-size: 14px;
   line-height: 1.5;
-  overflow: visible;
+  overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  line-clamp: 4;
-  -webkit-line-clamp: 4;
+  line-clamp: 9;
+  -webkit-line-clamp: 9;
   -webkit-box-orient: vertical;
 }
 
@@ -122,5 +122,11 @@ In the mobile version, the grid is displayed vertically.
   .carousel {
     margin-top: 6vh;
     margin-bottom: 6vh;
+  }
+
+  .card-description {
+    line-clamp: 6;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
   }
 }
