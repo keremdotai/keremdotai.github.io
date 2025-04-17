@@ -118,7 +118,7 @@ const HomeGrid = () => {
 						animate="center"
 						exit="exit"
 						className="card"
-						onClick={() => window.location.href = '#'}
+						onClick={() => window.location.href = stories[currentStory].link}
 					>
 						<div className="card-content">
 							<div className="card-title">{stories[currentStory].title}</div>
