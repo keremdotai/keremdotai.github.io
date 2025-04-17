@@ -1611,6 +1611,204 @@ function article_11() {
 		body: (
 			<React.Fragment>
 				<div className="article-content">
+					<div className="paragraph">
+						Yeni projemin ilk notunu tutmaktayım. Dışarıdan bir gözle basite kaçabilir; lakin kendimden parçaları, anılarımı ve duygularımı bu şekilde dile getirmek istediğimden mezuniyet projesi olarak bu işi bir seneliğine aldım.
+					</div>
+					<div className="paragraph">
+						Pencereler, vitrinler ve balkonlar… Betondan duvarlar arasına hapsolmuşken bizden bağımsız yaşayan dünyanın farkına varmamızı sağlayan yegane şeyler. Belki hapsolmak her zaman doğru kelime de değildir. İnsan bazen bilinçli olarak tercih eder akıntıyı kenardan izlemeyi. Yıldızların ışığı yaralarını herkese gösterebilir yahut göğsüne çarpan rüzgar yüreğinde yeni yaralar açabilir. O insanları anlayışla karşılamak gerekir.
+					</div>
+					<div className="paragraph">
+						Bir de elimizde tuttuğumuz ve bir türlü fırlatmaya kıyamadığımız paranın öbür yüzü vardır. Bazen de kendimizi sokaklara atmışızdır ve pencerenin öte tarafında kahvesini yudumlayan yaşlı çiftin sohbetini, vitrinin arkasındaki montun gelecekteki sahibini, ya da balkondaki saksıda henüz tomurcuklanmamış çiçeğin rengini merak ederiz. Tavanımız rüzgarın bir anlık öfkesiyle dağılacak bulutlardır ve o an kendimizi özgür hissederiz.
+					</div>
+					<div className="paragraph">
+						İşte ben de bu pencereler, vitrinler ve balkonları çizimim ile birleştirmek istedim. Kimi günler bir tarafında kimi günler öteki tarafında iken gördüklerimi, duyduklarımı, tattıklarımı; belki yaşamanın hayalini kurduklarımı kalemimle ya da fırçamla anlatmayı deneyeceğim.
+					</div>
+					<div className="paragraph">
+						İlki de tabiki kendi pencerem olmalıydı. Şans bu ya, bugün yağmur ardını enfes bir gün batımına bıraktı. Hemen birkaç fotoğraf çektim. Ardından koşar adımlarla mutfaktan bir bira kaptım ve küllüğü getirdim. Odamda sigara içmek pek yaptığım bir şey değildir lakin evimizde batıya bakan pencereler yalnızca odamda olduğundan ve bu andan aldığım haz ancak bir biraya eşlik eden sigarayla taçlanacağından ufak bir istisnada bulundum.
+					</div>
+					<div className="paragraph">
+						Ruhu olmayan gecekonduların ve şehrimize ihanet eden o büyük yapıların oluşturduğu ufuğun üstünde gökyüzü, insanlığın tüm o rahatsız edici gürültüsüne inat ulaşılabilecek en pürüzsüz dinginliğine sahipti. Gökyüzünü tamamen kaplayan bulutlar ise, utangaç bir çocuğun pembeye çalmış şişkin yanaklarını hatırlatmaktaydı. Zaten oldum olası güneşin hem merhaba deyişini hem de veda edişini seyretmeyi sevmişimdir. Ancak bu an, bu olağanüstü kompozisyon, sanki evvelde deneyimlediklerimden daha farklıydı.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginTop: "4em" }}>
+						"
+					</div>
+					<div className="paragraph">
+						<em>
+							Tanrı, önce yarattı iki insanın ruhunu, sonra sonsuz bahçesinde yarım bıraktığı iki bedene koydu. Bir oğul bir kız, bir Adem bir Havva; bedenlerince yarım bir yaşam sundu. Yalnız izinleri vardı Tanrı'nın dilediklerini yapmaya. Dokunabilir ama koklayamazlardı bir yıldız çiçeğini, birbirini görebilir ama tutamazlardı birbirinin elini. Ne hayal edebilir ne öğrenebilirlerdi aşkın adını, tadını, rengini.
+						</em>
+					</div>
+					<div className="paragraph">
+						<em>
+							Günlerden bir gün kahverengi gövdesine bir ağacın dayayıp sırtlarını  -başlarının üstü de yeşilden bir örtü- oturmuş yere ikisi. Bilmezlerdi nedir bu ağacın hikayesi. İblis ağacın meyve dolu dallarından indi, başladı anlatmaya. O, Tanrı'nın eski gözdesi, kurallara uymamış. O, bir vakit bir meleğe aşıkmış. Sevmiş, sonunda taşısa da sırtında laneti; fakat asla pişman olmamış.
+						</em>
+					</div>
+					<div className="paragraph">
+						<em>
+							İblis ateşi yaktı, aşk değildi artık saklı. Adem Havva’ya baktı, Havva Adem'e. Kırmızı dudakları birbirini çağırdı. Havva Adem’i öptü, Adem Havva’yı. Bu günah tüm nesillere yazıldı.
+						</em>
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", textAlign: "right" }}>
+						"
+					</div>
+					<div className="paragraph">
+						Bugünkü durağım Aşiyan Müzesi oldu. Daha önce de ziyaret ettiğim bir yerdi ki gidiş yolu boyunca heyecanla adımlarımı sıralamamı sağlayan da beni neyin beklediği oldu. Tevfik Fikret'in yatak odasındaki o muhteşem pencereden fotoğraflar çekip çizimlerim arasına katmak istiyordum.
+					</div>
+					<div className="paragraph">
+						Müzenin bahçesine giriş yaptığımda tahminimce benden birkaç dakika önce ulaşmış bir gruba müzede çalışan bir görevlinin rehberlik ettiğini gördüm. Yeni bilgiler edinmenin arzusuna öğrendiklerimin çizim sürecinde de işime yarayabileceği düşüncesi eklendi ve birkaç metre geriden onları takip edip görevlinin anlattıklarına kulak vermeye başladım. Bir müddet sonra üzerime yapışmış utangaçlığımı kenara bırakıp bu tuhaf takibi sonlandırmaya ve kendilerine dahil olup olamayacağımı sormaya karar verdim. Gruptaki insanlar bunu nezaketle kabul ettiler.
+					</div>
+					<div className="paragraph">
+						Müzenin üst katına çıkmamız ile birlikte öncelikle çalışma odasına geçtik. Dönemin Doğu-Batı diyalektiğini ışıklandırmasından eşyaların motifleri ve yerleşimine kadar adeta yüzümüze haykırmaya çalışan odanın bu akıllıca tasarımı, rehberin anlatımıyla birlikte daha da etkileyici hale geldi. Grubun geri kalanı yandaki yatak odasına geçerken ben birkaç eşyayı daha fotoğraflayıp onlara dair kısa notlar tutmakla meşguldüm.
+					</div>
+					<div className="paragraph">
+						Kısa bir gecikme ile rehberi yeniden yakalamak için yatak odasının kapısının ağzında kendimi bulduğumda ise, o an fotoğraflamamın mümkünatı olmayan, ancak silinmemek üzere zihnime yıldız tozları ile kazınan bir kareye gözlerim nail oldu. Tam karşımdaki, buraya gelmemdeki ana gayeyi taşıyan pencerenin önünde o duruyor, yüzündeki tebessümle rehberi dinliyordu. Bahçedeki ağacın ürkekçe titreyen dalları ve gökyüzünün yaratılış kadar muzaffer mavisi, onun güzelliğine layık olmak için çabalarcasına dalgalı saçlarının arkasında yerini almıştı. Ne zamandır kendini göstermemiş bir duygunun tahayyül edemediğim bir yoğunlukla bedenimi teslim alışına tanık oluyordum.
+					</div>
+					<div className="paragraph">
+						O da birlikte gezdiğim grubun bir parçasıydı ve tüm bu tur boyunca yan yana olmamıza rağmen bu kadar geç, gezinin sonlanmasına dakikalar kalmışken onu fark etmiş olmak içimi acıtmıştı. Müzeden çıkarken dilimin bağının çözülmesi ile ancak ismini ve neler yaptığını üstünkörü öğrenebilmiştim. Elimde avucumda ona nasıl ulaşabileceğime dair pek bir şey olmadan gidişini arkasından seyretmekle yetindim.
+					</div>
+					<div className="paragraph">
+						Eve dönüş yolu birbirini izleyen sigaraların dumanını ardımda bırakıp ne yaşadığımı, ne hissettiğimi düşünerek geçti; lakin etkisinden çıkamadığım, üstünü örtmenin mümkün olmadığı bu rengarenk duyguyu tasvir edebilecek kelimeleri kafamın içinde yan yana bir türlü dizemedim. Şimdi geriye dönüp baktığımda, neler olduğunu ancak sevdiğim bir tiyatro oyunundan alıntı ile ifade edebilirim: 'Hani radyoda çok sevdiğin bir şarkıya denk gelir sevinirsin de tam sesini açtığında şarkı biter ya, öyle bir şeydi işte.' Öyle bir şeydi.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginTop: "4em" }}>
+						"
+					</div>
+					<div className="paragraph">
+						<em>
+							Kibri şiirini aşmış Apollon, alay etti Eros'un yayıyla. Altta kalmadı Eros elbet, kurdu bir plan kafasında. Biri ak biri kara iki altın, eritti kaynar kazanında. İki ok yaptı elleriyle; biri saplandığı yüreğe hudutsuz bir aşk salacak, diğerini tadan ise uçsuz bucaksız kaçacak. Gerdi yayını Eros, bıraktı ilkini, vurdu Apollon'u sırtından. Gerdi yayını Eros, bıraktı ikinciyi, bir peri kızı yere düştü nehrin kıyısında.
+						</em>
+					</div>
+					<div className="paragraph">
+						<em>
+							Apollon sordu ona eşlik etmesini, peri kızı reddetti. Durdu bir gece Apollon, yıldızlara çıkmış arkadaşlarını dinledi. Apollon istedi ona eşlik etmesini, peri kızı da reddetti. Durdu bir gece Apollon, kibrine hırsı eklendi. Apollon emretti ona eşlik etmesini, peri kızı yine reddetti. Bunu gören tüm tanrılar, onunla alay etti. Apollon çıkardı kınından kılıcını, kıstırdı periyi nehrin kıyısında. Perinin çığlıklarını toprak ana dinledi.
+						</em>
+					</div>
+					<div className="paragraph">
+						<em>
+							Toprak kül etti perinin bedenini, bıraktı onun ruhunu bir ağacın gövdesine. Apollon, küstah ki ne küstah, topladı yaprakları ağacın dallarından, ve ardına bakmadan gitti.
+						</em>
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", textAlign: "right" }}>
+						"
+					</div>
+					<div className="paragraph">
+						Resim okumaya başlamadan önce başka bir üniversitede mühendislik eğitimi almaktaydım. Henüz on sekiz yaşındaydım. Benim adıma aile fertlerim bu tercihte bulunurken hayallerim ve isteklerim sorulmamıştı. Bu çok şaşırtıcı değildi çünkü onların planları doğrultusunda şekillendirilmiş bir hayatta üstüme düşeni yapmaktan fazlasını o yaşıma kadar ortaya koymamıştım.
+					</div>
+					<div className="paragraph">
+						Üçüncü senemin henüz ilk haftalarında istemediğim bir hayatı daha fazla sürdüremeyeceğimi anladım. Ailemden ilk defa bir talepte bulunacaktım. Yetenek sınavlarına hazırlanıp dilediğim bölümde okumak, içimdeki tutkuyu mesleğim haline getirmek istiyordum. Nedense bu düşünce yaydan çıkmaya yakın bir ok gibi kafamda zuhur ettiğinde ailemin beni destekleyeceğine dair aptalca bir inanışa da sahiptim.
+					</div>
+					<div className="paragraph">
+						Yanıldığımı anlamam ise vakit almadı. Akşam yemeği saatinde mutfaktaki masanın etrafında oturmuşken konuyu açtım. Onların çocukça bir muziplik olarak gördüğü fikrimin ardındaki ciddiyetimi kavramaları ile gitgide soluduğumuz havanın ağırlığı artıyordu. Bu ağırlığın altında omuzlarımız ezilmeye başladığında artık geri dönüşü olmayan bir yola adım atmıştık. Aramızdaki köprüleri, söndürme niyetimizin olmadığı bir yangın teslim almıştı.
+					</div>
+					<div className="paragraph">
+						Geçimimi sağlamak için birçok işe girip çıktım. Kostüm tasarımı yaparak başladığım son işimde ise şimdi sanat yönetmenlerinin asistanlığını yapmaktayım. Okuldan arta kalan zamanımın çoğunu, azımsanmayacak sıklıkla bazenleri de okulda olmam gereken zamanları film ve dizi setlerinde geçiriyorum. Bugün de yakında çekilmeye başlayacak bir dizinin sahne dekorunun düzenlenmesi için Beykoz'daydık. İstanbul'u dün geceden itibaren adeta yutan sisten ötürü çok sevdiğim Yeniköy-Beykoz vapurunu kullanarak değil, firmanın sağladığı araçla Kundura'ya ulaştım.
+					</div>
+					<div className="paragraph">
+						Sisin tüm vâkurluğuyla şehrin üstünden ayrılmayışını fırsat bilip öğle arasında sahildeki binanın üst katında boğaza bakan devasa pencerelerin fotoğrafını çekmeye geldim. Denizin üstüne inen bu beyaz perde o kadar baskındı ki, karşıda ne olduğunu, hangi binaların hangi sırayla dizildiğini bilmeme rağmen sis çekildiğinde hiç görmediğim bir manzarayla karşılacakmışım gibi hissettiriyordu. Bu uçsuz boşluk, ardının nasıl olabileceği, nasıl olması gerektiğini bana bırakıp yeni bir dünya yaratma hakkı tanıyordu.
+					</div>
+					<div className="paragraph">
+						Eninde sonunda neler yaşayacağımızı, neler olacağını bilmeme rağmen, o an pencerelerin karşısında dikilmişken; ailem isteklerimin arkasında bir an için dursa, o köprüyü o akşam yakmasak; belkiler ile dolu hayaller kuruyordum. Belkilerle dolu…
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginTop: "4em" }}>
+						"
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Ökkeş ile Cengâver, aynı gün doğdular. Yola yoldaş, acıya sırdaş; kısacık ömürlerinde birbirine paydaş oldular. Ökkeş ile Cengâver, aynı gün doğdular. Aynı gün on beşine bastılar. Bu obada iki oğul alırsa on beşinden yaşını, er midir değil midir kendini ispatlamalı. İki gün güneşin doğuşundan batışına, her gün biri av olur diğeri avcı; avcı avını mutlak yakalamalı. Muvaffak olanın hakkıdır alnı pak dolanmak, olmayanın yüzüne bir leke çalınmalı.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Ökkeş ile Cengâver, on beşine bastılar.  Törenin hükmü getirdi onları dedenin önüne. Dede ilk gün Ökkeş'i av seçti. Düşündü Ökkeş; Cengâver kıyabilir mi bana, ben onun teninden sakınırken gülün dikenini. Cengâver buldu Ökkeş'i bir ağacın altında, gözlerini serdi yere, vurdu Ökkeş'in yüzüne törenin fiskesini. Dede ikinci gün Ökkeş'i avcı seçti. Düşündü Ökkeş; nasıl kıyabilirim Cengâver'e, canımdan can taşırken onun bedeni. Düşündü Ökkeş. Hava kızarana kadar düşündü. Nasıl avlardı onu solmamışken hala üç dal çiçek, bir bahar günü Cengâver'in ona verdiği.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Güneşin batma vakti gelmişken, Ökkeş gördü tepenin başından Cengâver'i. Aynı ağacın altında beklemekteydi. Gördü onu Ökkeş, ama aldırış etmedi. Çevirdi yönünü nehre doğru. Yaşatmalıydı o üç dal çiçeği.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", textAlign: "right" }}>
+						"
+					</div>
+					<div className="paragraph">
+						Yaşamaya dair enerjimin sadece varlığımızı sorgulamaya yettiği akşamlar oluyor. Dün akşam da bunlardan biriydi. Yatağımda uzanmış usulca havanın kararmasını izledim. Düşündüklerimi not etmeye dahi takatim yoktu fakat birkaç fotoğraf çektim. Şimdi bu yeni günün aydınlık sabahında, dünün karanlığında zihnimden geçenlerin bir parçasını çizim esnasında hatırlamak için buraya düşeceğim.
+					</div>
+					<div className="paragraph">
+						Karanlık… Henüz bu evren var olmamışçasına her yer karanlık. Kainat… Kainat ise bir sahne, ben bu sahnenin ortasındayım. Yalnız bir spot ışığı üstüme doğrulmuş, adımlarımı milim milim izlemekte. Her insan gibi ben de kendi sahnemde kendi rolümü oynuyorum. Her insan kendi spot ışığı altında parlıyor.
+					</div>
+					<div className="paragraph">
+						Her birimiz ardımızda aydınlık zerresi kalmadan ilerliyoruz. Anılarımız, kararlarımız; onlara ait olduğumuz insanlar, bize ait olan insanlarımız, bir gülüş ya da gözyaşı ötede karanlığın parçası oluyor. Zamanı asla alt edemiyoruz.
+					</div>
+					<div className="paragraph">
+						Bu dünya, benim dünyam, Hayyam'ın öğrettiği gibi gözümü kapatıp açmamla birlikte yok olup yeniden yaratılıyor. Her insan dünyasını, gözünü son kez kapatana kadar yeniden yaratıyor.
+					</div>
+					<div className="paragraph">
+						İnsan, ölümün ve yalnızlığın çaresini arıyor. Lakin ölümün bir çaresi yok. Öleceğimizi unutup yaşamaya çalışıyoruz. Aksinin mümkünatı da yok. Peki ya yalnızlık? İnsan neden bu kadar korkar ki yalnızlığından; onu herkesten çok tanıyan, onu herkesten çok anlayan, onunla herkesten çok vakit geçiren, buna rağmen onu hiç tanımayan ve hiç anlamayan kişi insanın bizzat kendisi. Yalnızlık ise, sadece kendimizle olan birlikteliğimiz.
+					</div>
+					<div className="paragraph">
+						Kimi kalabalıkların arasına karışıp yalnızlığını görmemeye çabalar. Kimi yalnızlığını, kendi varlığını bütünüyle bir kenara koyup bir başkasının varlığının gölgesine sığınarak unutmak ister. Bunların hiçbiri çare değildir aslen. Halbuki her şeyden önce yalnızlığımızı kabul etmeliyiz. Ardından yalnızlıklarımızı paylaştığımız ortak bir yalnızlığa sahip olmaya, sevmeye ve sevilmeye çabalamamız gerekli. İnsan yalnızlığını iyi bilmeli ki, başkasınınkini tanımanın bahtiyarlığına erişsin.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginTop: "4em" }}>
+						"
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Issızlığın ortasında bir ada, yalnız arayıp da bulmak isteyenin karşısına çıkardı. Cennetten tüm yemişler ve ağaçlar toplanmış; bu adada yeryüzündeki bütün yılanların padişahı Şahmeran yaşardı.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Camsap isminde genç bir adam, dostlarının ihanetiyle düştü Yusuf'un kuyusuna. Efsun bu ya, kuyunun içinde bir kapı Şahmeran'ın adasına çıkardı. Araladı Camsap da kapıyı, adımladı ağaçların arasına. Şahmeran gördü onu, tutsak etti Belkıya'nın günahına. Belkıya, kim midir? Nasıl Camsap'ı vurdu ise arkasından dostları, Belkıya da satmıştı hırsı uğruna Şahmeran'ı. Fakat Camsap'ın vardı bu tutsaklığa itirazı. Ama Şahmeran bilirdi, ihanet ederdi insan evladı.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Tutsak dediysek de bağlı değil eli kolu, kulağı ağzı; yalnız yoktu adadan gitmesinin imkanı. Günler, haftalar, aylar oldu; Şahmeran Camsap'a, Camsap Şahmeran'a gönlünü kaptırdı. Yine de Camsap'ın vardı bu tutsaklığa itirazı. Şahmeran ona inandı, dönüşü olmayan bir sandal hazırlattı.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Şahmeran Camsap'ın dönüşünü her gece bekledi. Dönmek demek ihanet demekti. Bir kere giden bir daha gelmemeliydi. Şahmeran Camsap'ın dönüşünü her gece bekledi. İhanetin sonu ölümü de olsa, onu bir kere daha görmeye değerdi.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", textAlign: "right" }}>
+						"
+					</div>
+					<div className="paragraph">
+						Proje için yeni çekimler yapmak hevesiyle bugün rotamı Fener-Balat tarafına çevirdim. Sabahın erken saatinde kahvaltı yapmadan evden çıktığım için Fener'e ulaştığımda önce bir pastaneye uğradım. Pastaneden aldığım pretzel ve karton bardakta çay ile Haliç'in kıyısında bir banka geçip bir müddet martıların bir sandalın etrafında kanat çırpışını seyrettim.
+					</div>
+					<div className="paragraph">
+						Kahvaltımı bitirdiğimde ilk durağım Demir Kilise oldu. Daha önceki ziyaretlerimde tadilat nedeniyle bir türlü gezememiştim. Bu koca yapının onlarca tonluk demir bloklar halinde Avusturya'dan buraya seneler süren bir yolculukla taşınarak inşa edilmiş olması ve bu şehrin bir zamanlar böyle akılların yapılarıyla süslenmiş olması gerçeği, şu an maruz kaldığımız gerçeklikle her açıdan çatışıyordu. Bütünüyle demirden bir yapının sıcaklığını hissetmek, yaşadığını her detayıyla işitmek mümkünken; şehrin belleğini yok etmeye ant içmiş beton yığınlarının nasıl şuursuzca serpiştirildiğini bilmek yaralayıcı idi.
+					</div>
+					<div className="paragraph">
+						Sonraki durağım ise oldukça yokuşlu bir sokağın sonunda, yaşadığım semt gereği yokuş tırmanmak benim için pek sorun teşkil etmese de, Kanlı Kilise oldu. Tarihi bin yılı aşkın bu kilise adını, İstanbul'un surlarının Osmanlı erlerini artık tutamadığı o gün, kilisenin etrafında kalan son direnişçilerin bu erler tarafından katledilmesiyle sokaktan Haliç'e kadar oluk oluk akan Rum kanından almış. Duvarların arkasına saklanmış bu kilisenin içinde fotoğraf çekilmesi yasak olduğundan ötürü pencerelerinden görüntü alamadım.
+					</div>
+					<div className="paragraph">
+						Ardından sokağı baştan aşağı inip Fener Rum Lisesi önünden Balat'a, şu anda kahvemi yudumladığım ve bu yazıyı yazdığım mekana geçtim. Aslında bu yoldaki serüvenim şimdi bir çırpıda yazdığım gibi çabuk olup bitmedi. Fener Rum Lisesinin önünde uzunca bir süre kaldırımda dikildim ve tüm ihtişamı ile karşımda olan eseri izledim. Koridorlarında adımlamak, pencerelerinden altın boynuza bir bakış atmak istesem de bunun imkanı yoktu. Ben de onun pencerelerinin hikayesini dışarıdan dinliyordum. II. Gennadios'un elindeki asa ile bu yokuşu tırmanışı, Dimadis'in bu toprağın üstünde uzanmışken kızıl kalesinin hayalini kuruşu; lisenin pencereleri, kendi yaşı kadar ondan evvelki yüzlerce yıllık tarihi de bana baştan anlatıyordu. O kapıdan içeri girmeyi, kırmızı tuğlalarla çevrili o pencerelere baktıkça daha çok istedim. Belki bir gün içinde özgürce dolaşma şansına erişirim.
+					</div>
+					<div className="paragraph">
+						Uzunca bir süre kaldırımda dikildim ve Fener Rum Lisesini izledim. Onun pencereleri, bugünümü ve dünümü; haftalar önce karşıma bir kere çıkmış, lakin bendeki izi ilk günkü nergislerle donanmış o insanı bana anlatıyordu. Onu gerçekten tanımak, ömrünce taşıdığı hikayesini dinlemek isterdim. Belki bir gün bu şansa erişirim. Belki bir gün Fener Rum Lisesini de gezerim.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginTop: "4em" }}>
+						"
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Yapıcılar, yapıcılar, yapıcılar! Omuzları kan revan taşları taşıdılar. Yapıcılar, yapıcılar, yapıcılar! Koydular üst üste taşları, bir kuleyi yarattılar. On üç asır İstanbul'u bu kule seyretti bir başına.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Yapıcılar, yapıcılar, yapıcılar! İstedi tüccarlar, taşları yonttular. Yapıcılar, yapıcılar, yapıcılar! Galata'nın ortasına bir kule koydular. On üç asırlık yalnızlık böylece erdi sona.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Sanmayın yalnızca insan kalp taşır kulağınız işitir diye nabzını. Bu iki kulenin de vardır yüreği; hisseder saadeti, hüznü, aşkı. Güneş elleriyle delince bulutları, yahut gök taşırsa göğsünde yıldızları; görürdü iki kule birbirini, rüzgara karışır aşklarının tınısı. Ancak rüzgarın gücü yetmezdi taşımaya, bir kuleden diğerine hasret dolu mektupları. Ortalarında koca bir İstanbul Boğazı, nasıl birleşsin şehrin iki yakası.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						Göz yummadı Tanrı kavuşamamasına bu iki aşığın. Söz verdi onlara; bir gün iki insan evladı doğacak, zamanı gelince birbirini bulacak. Onların hatıraları, dileyip de ulaşamadıkları, bu iki bedende yaşayacak.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", textAlign: "right" }}>
+						"
+					</div>
+					<div className="paragraph">
+						Anlatır ya insanlar vaktiyle ne güzeldi bu cadde diye. Ben o eski İstiklal'i hiç görmedim. Bu kiminin burun kıvırdığı yeni hali, ki benim için öğrendiğim ve bildiğim tek hali, kendisine tutulmam için yeterliydi. Yolum bir müddet ona düşmeyince, İstanbul'a ihanet ediyormuşum gibi gelirdi. Ben de dün, bir ihanete teşebbüs etmemek için İstiklal'e gittim.
+					</div>
+					<div className="paragraph">
+						Öğle vaktini birkaç saat geçmişken Taksim Meydanından İstiklal'e sapmadan önce arka sokaktaki Aya Triada'ya uğradım. İçine girmesem bile bahçesinde öylece bir volta atmak âdetimdi. Ardından Rum ve Ermeni liselerinin olduğu sokaktan kendimi İstiklal'e attım. İnsanların yüzlerindeki o anı bu mekanı yaşamıyor oluşlarını sergileyen telaşlarına şaşarak bakarak ve bir yandan da hiçbir sokak tabelasını kaçırmadan -sanki ilk defa okuyormuşcasına- hepsini okuyarak cadde boyunca yürüyordum.
+					</div>
+					<div className="paragraph">
+						Sırasıyla Beyoğlu Sineması ve Atlas Sinemasında akşam gösterimde ne var baktıktan sonra ne zamandır biriken dileklerim için mum dikmek üzere Sent Antuan'a geçtim. Bir dileğim henüz İsa'ya sunmadan meleklerce duyulmuş olsa ki, kilisenin avlusunda o karşıma çıktı. Böylesine bir tesadüfün sersemliğine kapılarak ve belki Tanrı tarafından adıma yalnız bir kere yazılacak bir bileti elimde tutuyormuşca o ana sarılarak yanına gittim. Kendimi hatırlatmamın ardından zihnimde yer edinmiş tebessümü ile karşılık verdi. Bir tebessüm nasıl her seferinde aynı güzellikte olabilirdi?
+					</div>
+					<div className="paragraph">
+						Öylece başlayan muhabbetimiz an be an demlenirken kendimizi Galata'ya doğru ilerlerken bulduk. Gün batımı yaklaşmıştı. Yol boyunca üzerine uğraştığım projeden bahsettim. Kendisi de Galata Kulesinin pencerelerinden şehrin fotoğraflarını almayı önerdi. Gün batmaya başlamıştı. Ancak kulenin girişindeki amansız sıra ikimizi de bu önerinin yerine yeni bir arayışta bulunmaya itti. Galata Kulesi'nden şehri -en azından o an- izleyemeyecek olsak da, Galata Kulesini izleyebileceğimiz bir yer bulmak istedik.
+					</div>
+					<div className="paragraph">
+						Gün artık batmıştı. Tombul kadehlerde şişesinde beş yıl kalmaya dayanabilmiş kırmızı şarabımızı yudumlarken, kule biraz ötemizde bize bakmaktaydı. Zaman ve mekandaki uzaklıklar, ihtimaller ve imkansızlıklar üzerinde düşünülmeye değmeyecek kadar anlamsızdı. Kafamızda yarattığımız ayrıntılara vakit harcamadan ve hayata dair hiçbir ayrıntıyı kaçırmadan yaşamamız gerekiyordu. 'Yaşamak ne güzel şey' diye haykırarak ve nefes aldığımız her an bunun farkına vararak yaşamamız gerekiyordu. O an, yaşadığımı biliyordum.
+					</div>
+					<div className="paragraph">
+						<strong>Son.</strong>
+					</div>
 				</div>
 			</React.Fragment>
 		),
@@ -1633,6 +1831,375 @@ function article_12() {
 		body: (
 			<React.Fragment>
 				<div className="article-content">
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						"Baba, korkuyorum. Çok yağmur yağıyor."
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						"Bu sefer benden kaçamaz. Onu bu sefer yakalayacağım."
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						"Baba, tekne çok sallanıyor. Lütfen gidelim. Zaten çok karanlık, nasıl göreceğiz?"
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						"Benim geleceğimi biliyor. Başka kimse cesaret edemez bu havada denize çıkmaya. Şimdi başbaşayız o canavarla. Gelecek o da, biliyorum. Onu yakalamak için gençliğimi harcadım ben. Bugün gençliğimin intikamını alacağım ondan. Sen dümeni sıkı tut, savrulmamıza izin verme."
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Baba, gittikçe zorlaşıyor. Çok korkuyorum.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“İşte geliyorsun! Gel bakalım; artık birimizin ölmesi gerekiyor. Artık birimizin…”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Baba! Baba!”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						Göz gördüğünce uzanan kumsalda, hala tam kurumamış ve birçok yerinden yırtılmış, yakasında beyaz dantel işlenmiş uzun pembe elbisesi ile Thisbe baygın bir halde uzanıyordu. Gözlerini açtığında en son hatırladığı fırtınadan eser yoktu. Yavaş yavaş doğruldu. Ne dalgalara kapılmış teknelerinden ne de babasından bir iz vardı. Bu sahili daha önce hiç görmemişti. Denizin onları çok uzaklara götürdüğünü düşündü. Engelleyemediği tedirginlik hali ve çocuk adımlarıyla sahil boyunca yürürken bir yandan ürkek fakat yüksek sesiyle babasına sesleniyordu. İleride ağaçların arasından tepeye tırmanan bir patika gördü. Yardım isteyebileceği birini bulma umuduyla sahili geride bırakıp yönünü patikaya verdi. Güneş yerini pek değiştirme fırsatı bulamadan Thisbe, uzakta yolda yürümekte olan birini gördü.
+					</div>
+					<div className="paragraph">
+						"Hey! Bakar mısınız?”
+					</div>
+					<div className="paragraph">
+						Adam duraksadı ve Thisbe’e doğru yüzünü döndü. İki elini dürbün misali gözlerine götürdükten sonra konuştu.
+					</div>
+					<div className="paragraph">
+						“Sen de kimsin? Hiç buralıya benzemezsin.”
+					</div>
+					<div className="paragraph">
+						Thisbe adımlarını hızlandırıp adama doğru ilerlerken bir yandan da konuşmaya devam etti.
+					</div>
+					<div className="paragraph">
+						“Babamı, babamı kaybettim. Onu arıyorum.” 
+					</div>
+					<div className="paragraph">
+						“Bu yaşta bir çocuk bu ormanda tek başına dolaşıyorsa bir nedeni olmalı belli ki. İsmin nedir? Söyle bana nerden geldin?”
+					</div>
+					<div className="paragraph">
+						Thisbe adamın yanına vardığında şaşkınlığını yüzünden gizleyemedi.
+					</div>
+					<div className="paragraph">
+						“Ben, ben sizi, birçok kez rüyamda gördüm.”
+					</div>
+					<div className="paragraph">
+						“Ben ise küçük hanım rüyamda seni hiç görmedim. Ben hiç rüya da görmedim. İsmini sanırım söylemeyeceksin.”
+					</div>
+					<div className="paragraph">
+						“Thisbe.”
+					</div>
+					<div className="paragraph">
+						“Benim de ismim Fahim. Çok memnun oldum. Peki, nereden geldin?”
+					</div>
+					<div className="paragraph">
+						“Babamla tekne, teknedeydik. Fırtına vardı.”
+					</div>
+					<div className="paragraph">
+						“Tekne mi? Şşş! Sessiz ol lütfen. Her yerde onların kulakları var, başımıza bir bela açabilirsin.”
+					</div>
+					<div className="paragraph">
+						“Kulakları mı, anlamadım, niçin sessiz olmalıyım?”
+					</div>
+					<div className="paragraph">
+						“Önce sen anlat hikayeni. Ama dediğim gibi, sessiz ol lütfen.”
+					</div>
+					<div className="paragraph">
+						“Teknedeydik. Rüzgar ve yağmur çok artmıştı. Dalga, dalganın vurup beni içine aldığını hatırlıyorum. Sonrasında sahilde uyandım. Babam da tekne de ortalıkta yok. Babamı bulmalıyım, eve dönmek istiyorum.”
+					</div>
+					<div className="paragraph">
+						“Dün gece, evet, gökyüzü çok öfkeliydi. Ama yine de denizde olmamanız gerekirdi. Olanlar hakkında hiçbir şey duymamış olamazsınız. Bir haftadır yasak denize çıkmak.”
+					</div>
+					<div className="paragraph">
+						“Neler oldu ki?”
+					</div>
+					<div className="paragraph">
+						“Kraliçe hastalandı.”
+					</div>
+					<div className="paragraph">
+						“Kraliçe mi?”
+					</div>
+					<div className="paragraph">
+						“Evet. Tüm kıtada denize çıkmak yasak o günden beri. Kehanete göre denizden gelenin taze kanıyla yıkanınca kraliçenin bilekleri tüm bu hastalık geçecekti.”
+					</div>
+					<div className="paragraph">
+						“Babamı bulup götürmüş olabilirler mi?”
+					</div>
+					<div className="paragraph">
+						“Bittabii. Ama korkma babana bir şey olmaz, yine kehanette denizden gelenin bir çocuk olacağı söylenir.”
+					</div>
+					<div className="paragraph">
+						Fahim ne söylediğinin farkına vardıktan sonra yutkundu ve duraksadı. Thisbe’in gözlerinden okunan babasına ve evine ulaşamama ihtimalinin endişesine hiç tanımadığı bir ülkenin hiç tanımadığı kraliçesi için öldürülme korkusu da eklenmişti. Fahim, sakin ve şefkatli bir ses tonuyla söze yeniden girdi.
+					</div>
+					<div className="paragraph">
+						“Babanı buldularsa buraya en yakın kasabaya götürmüşlerdir. Kasabada kraliçenin nezarethanesi var.”
+					</div>
+					<div className="paragraph">
+						“Nezarethane nedir?”
+					</div>
+					<div className="paragraph">
+						“Nezarethane, şeydir, şey. Kraliçenin yabancı diyarlardan gelenleri süresiz misafir ettiği yerdir. Tabii çoğunlukla kendi halkını misafir eder. Neyse. Kasaba buradan birkaç gün yürüme mesafesinde. Babanı buldularsa şayet atlarla götürüyorlardır, onlar bu akşam olmadan varırlar. Eğer orada değilse bile bir şeyler öğrenmek, seni evine götürmek için yine de kasabaya gitmemiz gerekli. Ancak seni bu halde götüremeyiz.”
+					</div>
+					<div className="paragraph">
+						Fahim, ellerinden yelpaze yapıp Thisbe’in etrafında dönerek ona doğru sallamaya başladı. Kısa bir süre sonra Thisbe’in elbisesi tamamen kurudu. Ardından işaret parmaklarını iğne ve iplik gibi kullanarak Thisbe’in elbisesindeki yırtıkları dikmeye başladı.
+					</div>
+					<div className="paragraph">
+						“Ellerinle tüm bunları nasıl yapabilirsin?”
+					</div>
+					<div className="paragraph">
+						“Benim ellerim sihirlidir, ama büyülü değil. Hiçbir şeye sahip olmadan pek çok şey yapabilirim. Bir tek kötülüğe hizmet etmez benim ellerim. İşte, bitti. Şimdi gidebiliriz.”
+					</div>
+					<div className="paragraph">
+						“Gerçekten beni babama götürecek misin?”
+					</div>
+					<div className="paragraph">
+						“Evet, seni evine götüreceğim.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						Hava kararmıştı. Thisbe ve Fahim yoldan çıkıp ağaçların arasına dalmış, yoldan geçenlerce görünmeyecek bir mesafede Fahim’in ellerindeki hüner ile küçük bir ateş yakmıştı. Gündüzün aksine gece oldukça soğuk olmuştu. Ateşin etrafında otururken Thisbe, Fahim’in yanına usulca yaklaşıp kolunun arasına kıvrıldı.
+					</div>
+					<div className="paragraph">
+						“Rahatsız olmazsın değil mi? Çok üşüyorum.”
+					</div>
+					<div className="paragraph">
+						“Tabii ki olmam.”
+					</div>
+					<div className="paragraph">
+						Thisbe uykuya dalmak üzere iken dal çıtırtıları duydular. Ancak görünürde kimse yoktu. Bir süre sonra etrafları oldukça aydınlandı. Fahim ayağa kalktı ve dört tarafı da incedi.
+					</div>
+					<div className="paragraph">
+						“Kim var orada?”
+					</div>
+					<div className="paragraph">
+						Ağaçların iri gövdelerine büyük bir gölge düştü ve biri uzaklardan konuşmaya başladı.
+					</div>
+					<div className="paragraph">
+						“Benim.”
+					</div>
+					<div className="paragraph">
+						“Sen de kimsin?”
+					</div>
+					<div className="paragraph">
+						“Tanışmak için pek de hoş bir ses tonu değil.”
+					</div>
+					<div className="paragraph">
+						“Tanışmak için pek de hoş bir yaklaşım değil.”
+					</div>
+					<div className="paragraph">
+						“Hazır cevaplıyız bakıyorum da, göründüğünden zekisin. Seni ilk gördüğümde pek de ihtimal vermemiştim. Ama iyi birisin, yanındaki çirkin çocukla karşılaştığında söylediklerin ile beni etkiledin.”
+					</div>
+					<div className="paragraph">
+						Thisbe’in tedirgin görünüşünün yerini kendisine çirkin denilmesine duyduğu alınganlık aldı. Fahim ise tüm konuştuklarının duyulmuş olmasından ötürü daha tedirgin gözüküyordu.
+					</div>
+					<div className="paragraph">
+						“Merak etmeyin, kötülük gelmez benden size. Ben de kasabaya gidiyordum, kulak misafiri oldum sizin sohbetinize. Belki başka yoldan gidersiniz de şarkılar söyleyerek yoluma devam ederim dedim ama hep aynı yolu izledik. Ben de saklandım hep sizden.”
+					</div>
+					<div className="paragraph">
+						“Neden geceyi bekledin?”
+					</div>
+					<div className="paragraph">
+						“Herkes yanıma yaklaşmaz çünkü benim. Kocaman kulaklarım, sivri dişlerim, bir boğa kadar büyük bedenim ile korkuturum beni görenleri. Şimdi de çıkmak istemedim karşınıza. Gölgemle size eşlik edeyim dedim.”
+					</div>
+					<div className="paragraph">
+						“İsmin nedir peki?”
+					</div>
+					<div className="paragraph">
+						“İsmim muhim değil, henüz benim zamanım değil. Bana dilediğinizce seslenebilirsiniz. Sizin isimlerinizi de duymuştum ama aklımda kalmadı, şimdi söyleseniz de yine unutacağım. Boşuna zahmet etmeyin.”
+					</div>
+					<div className="paragraph">
+						“Sana güvenebilir miyiz?”
+					</div>
+					<div className="paragraph">
+						“Güvenemeyeceğiniz birisi olsam çoktan satmaz mıydım sizi? Benim tek derdim kasabaya ulaşmak, sizi ürkütmemek için de yine böyle ziyaret ederim geceleri. Benim çok uykum geldi. Kesemde çok hikaye var, uyumadan önce birini dinlemek ister misiniz?”
+					</div>
+					<div className="paragraph">
+						“Ben dinlerim,” dedi Thisbe, “annemi kaybettiğimden beri hiç masal dinlemedim.”
+					</div>
+					<div className="paragraph">
+						“Anlatacaklarım masal değil küçük kız, bizzat benim yaşadıklarım. Ama bu minik detay için seni kırmayacağım, masal olsun anlattıklarım. Eski zamanlarda bir sirkte çalışıyordum. Sirkin en güçlüsü bendim. Tüm eşyaları ben taşır, tüm çadırı ben tek başıma kurardım. Sirktekiler benden korkardı lakin en çok da beni severdi. Bir gün sirkin sahibi kağıttan ince pamuktan narin cam bir küre getirdi. Tabii ki de küre bana emanetti. Kürenin içinde bu kıtaya uğramış ilk perinin gözyaşları vardı, ancak böyle bir küre onu bugüne saklardı. Bir gün çadırı toplayıp yerleştirirken arabalara, felaketlerin en beteri buldu beni. Kaz tüyünden yastığı ile taşırken küreyi, bir taş konmuş yolumun üstüne. Takıldı ayağım taşa, düştü küre yere. Bir tarih toprağa karıştı. O gün sirkten kovuldum, herkes arkamdan el salladı. Sonra da bahtım hiç açılmadı. Bu gecenin hikayesi de burada sonlandı.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						Thisbe ve Fahim uyandıklarında bir müddet etrafa bakınıp seslenseler de, dün gece tanıştıkları arkadaşlarına dair bir iz bulamadılar. Ardından ikili vakit kaybetmeden yola çıktı. Yol boyunca Thisbe bu bilmediği evrene dair aklından geçen her soruyu sordu. Neredeyse her şey yaşadığı dünyadan çok farklıydı. Ağaçlar, çiçekler, yol boyunca denk geldikleri hayvanlar, insanlar, insan olmayan ama konuşan canlılar, dinlediği hikayeler ve perilerden tut devlere bu hikayelerdeki kahramanlar; ahşap evlerinin üst katındaki odasına her gece tek başına uyumaya gittiğinde hayallerinde yarattığı her şey burada vardı.
+					</div>
+					<div className="paragraph">
+						Thisbe meraktan parlayan gözlerle sordukça Fahim yanıtlarken akşam olmuştur. Yine yoldan uzak bir köşe bulup minik bir ateş yaktı. Ateşin iki ucunda otururken Thisbe’in gün içindeki neşesi yerini yavaş yavaş burukluğa bıraktı.
+					</div>
+					<div className="paragraph">
+						“Thisbe, ne geçiyor aklından? Bir şey mi oldu?”
+					</div>
+					<div className="paragraph">
+						“Konuştuklarımızı düşündüm de. Hep ben sordum senin dünyan nasıl bir yerdir diye.”
+					</div>
+					<div className="paragraph">
+						“Evet.”
+					</div>
+					<div className="paragraph">
+						“Ama sen hiç sormadın benim dünyam nasıl bir yer diye.”
+					</div>
+					<div className="paragraph">
+						“Evet.”
+					</div>
+					<div className="paragraph">
+						“Hiç merak etmedin mi? Niçin sormadın?”
+					</div>
+					<div className="paragraph">
+						“Dürüst olmam gerek. Merak etmedim hiç. Kendi dünyamı tam tanımamışken başka bir dünyayı hayal etmek istemedim. Ama yanlış anlaşılmasın. Senin nasıl hissettiğini hep merak ettim. Benim için senin dünyan değil, değerli olan sensin.”
+					</div>
+					<div className="paragraph">
+						Duyduklarını anlamlandırmaya çalıştığı Thisbe’nin yüzünden okundu. Bir dünyayı tanımak ne demekti, başka bir dünyayı hayal etmek neden zor gelmekte idi; onun için o an belki de yetişkinlerin bileceği bir işti. Nasıl hissettiğinin birisi için önemli olduğunu duymak ise onun için bir ilkti.
+					</div>
+					<div className="paragraph">
+						Ateşin etrafını sessizlik sarmışken bir önceki gün tanıştıkları dostlarının gölgesi de bu ikiliye katıldı.
+					</div>
+					<div className="paragraph">
+						“Neden sustunuz? Sizi dinlerken yıldızları seyretmek güzeldi. Hele şu sıska adam, pek sevgi doluydu sözlerin. Üzüldüm devamının gelmediğine.”
+					</div>
+					<div className="paragraph">
+						“Çekilmez biri olmakta ne kadar mahirsin. Kendini göstersen de kim olduğunu da bilelim.”
+					</div>
+					<div className="paragraph">
+						“Mahir olduğum başka şeyler de vardır tabii ki. Misal sevmek! Belki de ben ustalaştım diyebildiğim tek yetim.”
+					</div>
+					<div className="paragraph">
+						“Ne kadar da alçakgönüllüsün.”
+					</div>
+					<div className="paragraph">
+						“Alçakgönüllülükten ben hiç bahsetmedim. Atladım yahut lafı dolandırdım da sanmayın, bugün size yüzümü gösterebilirim.”
+					</div>
+					<div className="paragraph">
+						Fahim ve dostlarının konuşmasının arasına Thisbe heyecanla daldı.
+					</div>
+					<div className="paragraph">
+						“Lütfen, lütfen, lütfen göster kendini.”
+					</div>
+					<div className="paragraph">
+						“Küçük hanımın ısrarını karşılıksız bırakabileceğimi sanmıyorum. Ama yanınıza gelemem, ancak uzaktan beni görebileceksiniz.”
+					</div>
+					<div className="paragraph">
+						Önce dostlarının gölgesi kayboldu, ardından da her biri farklı bir köşeden sakin ayak sesleri geldi. Dostları, öte yandaki bir ağacın arkasından kafasını çıkarıp kendini gösterdi.
+					</div>
+					<div className="paragraph">
+						“Ama sen anlattığın gibi kocaman bir şey değilmişsin.”
+					</div>
+					<div className="paragraph">
+						“Bir şey mi küçük hanım? Tenim iplerden örülmüş olsa da içimde atan kalbin kırılabileceğini hatırlatmak isterim.”
+					</div>
+					<div className="paragraph">
+						“Peki bize neden yalan söyledin?,” der Fahim.
+					</div>
+					<div className="paragraph">
+						“Bu ıssız ormanda benim de kendimi korumam gerek, değil mi? Kocaman kulaklarım ve sivri dişlerim yok fakat düşüncesinin arkasına sığınıp herkesten saklanabilirim. Beni görenlerin korkması değil, beni nasıl gördüklerinin bendeki korkusudur saklanmak istememin nedeni. Bugün çok yoruldum, uykuya dalmadan önce bir hikayemi daha paylaşmamı, pardon küçük hanım, size bir masal daha anlatmamı ister misiniz?”
+					</div>
+					<div className="paragraph">
+						“Evet, evet çok isterim.”
+					</div>
+					<div className="paragraph">
+						“Eski zamanlarda bir sirkte çalışıyordum, bilirsiniz. Sirkin en güçlüsü tabii ki ben değildim. Ortalığı toplar, herkesin derdine koşar, gösteri vaktinde ise sahne kenarında maskotluk ederdim. Bir gün sirkin sahibi kağıttan ince pamuktan narin cam bir küre getirdi. Sirkin sahibi bana güvenirdi. Seyircilerin gözlerindeki gülümseme dışında çalışmaktan başka bir beklentim yoktu. Tabii ki de bu yüzden küre bana emanetti. Kürenin içinde bu kıtaya uğramış ilk perinin gözyaşları vardı, ancak böyle bir küre onu bugüne saklardı. Turnede kıtanın güneyine inmişken, ekibe yeni biri katıldı. Aman tanrım! Sanki bulutları altıma almıştım, güneş benim içim her gün doğmuş her gece onun kadar güzel yıldızlara yerini bırakmıştı. O an onun kalbinin atışını her bir ipliğimde hissetmekteydim. Gün geçtikçe, onu dinledikçe, onun hayata karşı gülümsemesini de hüznünü de gördükçe aşık olduğumu anladım. Bir gün çadırı toplayıp hep beraber yerleştirirken arabalara, felaketlerin en beteri buldu beni. Kaz tüyünden yastığı ile taşırken küreyi, o da karşıdan geliyordu. Bir taş konmuştu yolunun üstüne, takıldı ayağı taşa, düştü acılar içinde yere. Onun o halini görünce ne aklımda sirk kaldı ne küre. Tabii ki küre de düştü yere. Bir tarih toprağa karıştı. O gün sirkten kovuldum, pek azı arkamdan el salladı. Sonra da bahtım hiç açılmadı. Bu gecenin masalı da burada sonlandı.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						“Kasabaya yarın ulaşmış oluruz. Gün ayana kadar burada dinlenelim. Heyecanlı mısın?”
+					</div>
+					<div className="paragraph">
+						“Bilmem ki.”
+					</div>
+					<div className="paragraph">
+						“Niçin?”
+					</div>
+					<div className="paragraph">
+						“Ya babamı bulamazsak?”
+					</div>
+					<div className="paragraph">
+						Fahim, bu sorunun elbet geleceğinin farkındaydı. Dizlerinin üstüne çöküp Thisbe'nin ellerinden tutup gözlerinin içine baktı.
+					</div>
+					<div className="paragraph">
+						“Ben seni evine götüreceğim. Sana bunun sözünü verdim.”
+					</div>
+					<div className="paragraph">
+						“Neden peki? Niçin iki gün önce tanıştığın birine böyle bir söz veresin ki?”
+					</div>
+					<div className="paragraph">
+						“Çünkü seni anlıyorum.”
+					</div>
+					<div className="paragraph">
+						“Beni nasıl anlayabilirsin ki?”
+					</div>
+					<div className="paragraph">
+						“Çünkü ben de küçükken evimi kaybettim. Ben de evime ulaşmak için haftalarca yol teptim. Fakat kimse tutmadı elimden benim, ben de evime hiç kavuşamadım. Emin ol seni anlıyorum Thisbe.”
+					</div>
+					<div className="paragraph">
+						“Eğer küçükken kaybolmasaydın, o gün beni anlamasaydın, yine götürür müydün beni evime?”
+					</div>
+					<div className="paragraph">
+						Fahim'in bu soruya ise hiçbir yanıtı yoktu. Yanıtını bilmediği bir soruya yanıt aramak ne kadar da zordu. Bu yüzden de sessiz kalıp doğrulmaya ve gece uyuyabilecekleri ortamı hazırlamaya karar verdi.
+					</div>
+					<div className="paragraph">
+						Thisbe ve Fahim ateşin başında otururken saatler geçti. Ancak hala dostları ortaya çıkmamıştı. İkisinde de bir şey olmuş olabileceğinin tedirginliği yer etmişti. Çoktan karşılarına gölgesini düşürmesi ve laf atması gerekirdi. İkisi de birbirlerinin tedirginliklerini fark etmiş olacaklar ki aramaya karar verdiler. Çok ses çıkarmamaya çalışarak, fakat seslerini de dostlarının duyması umudunu taşıyarak tek tek her ağacın arkasına bakmaya başladılar. Ay göğe iyice oturduğu vakit dostlarını bir ağacın arkasında, pamuktan bedeni parçalanmış ve hala atan etten kalbi atar halde buldular.
+					</div>
+					<div className="paragraph">
+						“Hey, ne oldu sana?”
+					</div>
+					<div className="paragraph">
+						“Mühim bir şey yok. Kusura bakmayın bugün sizi ziyarete gelemedim diye. Gördüğünüz üzere çok da iyi bir vaziyette değilim.”
+					</div>
+					<div className="paragraph">
+						“Kim yaptı, ne oldu? Ne yapabiliriz senin için?”
+					</div>
+					<div className="paragraph">
+						“Yapabileceğiniz bir şey yok, ne olduğunun da önemi yok. Bu hikaye benim hikayem değil zaten, anlatmamın lüzumu yok.”
+					</div>
+					<div className="paragraph">
+						Thisbe göz yaşları içinde Fahim'in bacağına sarıldı.
+					</div>
+					<div className="paragraph">
+						"Fahim, lütfen bir şey yap. Kapatamaz mısın yarasını, dikemez misin tekrar onun bedenini?"
+					</div>
+					<div className="paragraph">
+						"Benim ellerim sihirlidir, ama büyülü değil. Maalesef hiçbir şey gelmez elimden şu an onun için."
+					</div>
+					<div className="paragraph">
+						Dostları araya girip konuşmaya başladı.
+					</div>
+					<div className="paragraph">
+						"Aslında bir şey gelebilir. Lütfen oturun ikiniz de, son kez masalımı, bu sefer doğruları dinleyin. Eski zamanlarda bir sirkte çalışıyordum. Ortalığı toplar, herkesin derdine koşar, gösteri vaktinde ise sahne kenarında maskotluk ederdim. Bana annemden miras kalan bir küre vardı. Kağıttan ince pamuktan narin cam bir küre. Kürenin içinde bu kıtaya uğramış ilk perinin gözyaşları vardı, ancak böyle bir küre onu bugüne saklardı. Onu herkesten saklardım. Turnede kıtanın güneyine inmişken, ekibe yeni biri katıldı. Aman tanrım! Sanki gönlümün onlarca yıllık susuzluğu dinmişti. Vatansızlığımı paylaşabileceğim biriydi, sürgün hissiyatımı dindirmişti. Bir gün bir sırrını paylaşmak istedi, her gün birini. Onun tüm sırlarına, tüm acılarına erişmiştim. Bir gün bir sırrımı paylaşmak istedim, gösterdim ona o camdan küreyi. Küreyi eline almak istedi, verdim. Cam bir küre nasıl kağıttan ince, pamuktan narin olabilir merak etti, boynumu eğdim. Bıraktı yukarıdan küreyi yere, tuzla buz oldu küreyle birlikte yüreğim de. O sonunun böyle olacağını düşünmedi, merakı üstün geldi benim sevgime. Ben sonunun böyle olacağını düşünmemiştim. Kara bulutlar kapladı sirkin etrafını, ilk perinin gözyaşları bir lanet oldu üstüme, yerini kendi gözyaşlarım aldı. Lanet öyle bir kelime ki, yayıldı sevdiğimin dudaklarından sirkteki herkesin kulaklarına, duyulması yetti beni sirkten kovmalarına. Hiçbiri arkamdan el sallamadı. Sonra da bahtım hiç açılmadı. Bu gecenin masalı da ömrümle birlikte sonlandı."
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Fahim, korkuyorum. Atlıların sesleri giderek yaklaşıyor.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Korkma Thisbe, sıkıca sarıl bana. Kimseye vermeyeceğim seni.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Fahim, lütfen daha hızlı koş. Ya yakalarlarsa bizi?”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Seni evine götüreceğim Thisbe. Her ne pahasına olursa olsun seni evine götüreceğim. Sen sadece sıkı tut beni, onlar yetişemeyecekler bize.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Fahim, görebiliyorum onları. Çok korkuyorum.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Kasabaya çok az kaldı. Bundan sonrasını tek devam etmelisin. Ben onları oyalayacağım. Güzelce saklan gördüğün çalıların içinde. Sabah olunca da ilk iş meydandaki çilingire git, eski dostumdur, o sana yol gösterir.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Fahim, peki sen gelmeyecek misin?”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Deneyeceğim, ama bekleme beni.”
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic" }}>
+						“Fahim! Fahim!”
+					</div>
 				</div>
 			</React.Fragment>
 		),
@@ -1655,6 +2222,27 @@ function article_13() {
 		body: (
 			<React.Fragment>
 				<div className="article-content">
+					<div className="paragraph">
+						Uzun süredir pek nadir fotoğraf çekildiğimi fark ettim. Senede bir, belki iki fotoğraf karesinde yer edinmekteydim. Fark etmekten öte yüzüme bunun vurulduğunu da söyleyebilirim. Bir ânı kendilerince ölümsüzleştirmek isteyen dostlarım, ellerine aldıkları neredeyse bizden akıllı cihazlarının karşısında poz verirken benim kendilerine niçin katılmadığımı sorgular olmuştu. Milyonlarca minik dikdörtgenin fotoğraf isimli kompozisyonunda neden var olmak istemediğimi bulmak artık benim için bir görevdi.
+					</div>
+					<div className="paragraph">
+						Bugüne kadar görevimi hakkaniyetle ifa ettiğimi söyleyemem. Yanıtını aradığım bu soruya çoktan birçok kitap, birçok tiyatro, hatta benim adıma kimi dostlarım yanıt vermişti. Hazır bir cevaba sığınmanın cazibesi, insan evladı için kolay gem vurulabilir değildir. Öyle ki, fotoğraflardan kaçmamın ardındaki sebep olarak, öldüğümde huzurla yok olabilmek için şu dünyada herhangi bir iz bırakmamak istediğimi düşündüm nice vakittir. Herhangi bir insanda yahut herhangi bir maddi formda benden bir parçanın kalışı, hiçliğe -bazılarımızın deyimiyle sonsuzluğa- kavuşmama engel olabilirdi.
+					</div>
+					<div className="paragraph">
+						Bu sabah babamın doğduğu köye doğru yola çıktık. Yolculuk pek de uzun değildi. Anlatacaklarını kursağında tutan dağların yamacından geçerken ben onlara kulak versem de onlar bana içini dökmedi. Bugün bir gücün yahut bir varlığın benimle konuşacağını anlamıştım ancak bu sırtında tonluk bir araçla dolaştığımız dağlar değildi. Dağlar bana güvenmemişti. Zaten bir insana nasıl güvenilebilirdi? 
+					</div>
+					<div className="paragraph">
+						Köyün biraz ötesindeki, tabiatın görkemini haykırdığı şelaleye gitmeden önce köy mezarlığını ziyaret etmek istedim. Ben buraya uğramayalı buranın ahalileri epey artmıştı. İçlerinden biri de, kendisine veda edemediğim babaannem idi.
+					</div>
+					<div className="paragraph">
+						Kimseyi uykusunda rahatsız etmemenin özeni ile basabileceğim toprak parçalarının üzerinden geçerek babaannemin mezarını aramaya başladım. Bir bir mezar taşlarına göz atarken onu bulduğumda, zaten zor öğrendiğim ismini bir de bu yaşıma kadar yanlış bildiğimi fark ettim. O beni böyle aptal olsam da severdi.
+					</div>
+					<div className="paragraph">
+						Yanına gelip onun başında bekleyen o mezar taşının üstüne elimi koyduğumda, niçin fotoğraf çekilmediğim sorusunun bendeki yanıtını artık bilmiştim. Geçmişten bir fotoğraf, henüz ben üç yahut dört yaşlarındayım. Babaannem koltukta otururken sırtına çıkmışım, iki elim onun o öpülesi saçlarında. Ama nasıl bir kahkaha var yüzümde, henüz bu dünyayı tanımadığım çok aşikar. Ama nasıl bir gülümseme var babaannemin yüzünde, henüz ömrüne gelmemiş sonbahar. Zihnime sorsak bir asır geçti bu fotoğrafı görmeyeli, takvimler belki altı belki yedi yıl der. Ben o mezar taşına değil babaannemin saçlarına dokundum, beni de bir gün kabul edecek toprağa değil babaannemin omuzlarına verdim yükümü; o senelerdir görmediğim bir fotoğraf değildi sadece, ben o an yaşadım onu bu yaşımda. Orada Mehmet'in neşesi bir haneye sığmaz taşarken iken ben ağladım mezarlıkta.
+					</div>
+					<div className="paragraph">
+						Günü geldiğinde yok olabilmek değildi fotoğraf çekilmememin ardındaki sebep, biliyordum, geride kalmanın acısından kaçıyordum.
+					</div>
 				</div>
 			</React.Fragment>
 		),
@@ -1677,6 +2265,78 @@ function article_14() {
 		body: (
 			<React.Fragment>
 				<div className="article-content">
+					<div className="paragraph">
+						“İlaç vakti geldi Tui. Dünkü gibi ısrarcı olma, bu sefer tam vaktinde içeceksin.”
+					</div>
+					<div className="paragraph">
+						“Ama hasta hissetmiyorum ki, neden her gün ilaç içmek zorundayım?”
+					</div>
+					<div className="paragraph">
+						“Bu hastalık zaten öyle kendini her zaman belli eden bir şey değil ki, bunu sen de biliyorsun. Kışın nasıl geçtiğini hatırla? Her gün nasıl da titriyorduk. Tekrar öyle olmasını ister misin?”
+					</div>
+					<div className="paragraph">
+						"Bunu her seferinde söylüyorsun fakat her kış da aynı geçiyor. Bence bu ilaçlar hiçbir işe yaramıyor."
+					</div>
+					<div className="paragraph">
+						“Tui, bu ilaçları hastalıktan tamamen kurtulmak için değil, daha kötülerini yaşamamak için içiyoruz. Maalesef hastalığımızın yüzyıllardır bir çözümü yok.”
+					</div>
+					<div className="paragraph">
+						“Bu çaresizlikten çok sıkıldım. Her seferinde de ilacı içtikten sonra hemen uykum geliyor. Hava ne kadar güzel dışarıda, baksana bir La. Neden bahçeye çıkıp biraz daha kedilerle oynamıyoruz?”
+					</div>
+					<div className="paragraph">
+						“Yeterince oynadık bugün. Bak, lafa tuttun beni yine. Çok az vaktimiz kaldı, yine saatini geçireceksin ilacın. Lafımı dinlememeye başladın, bu beni sinirlendiriyor.”
+					</div>
+					<div className="paragraph">
+						La, bir elinde bir bardak su diğerinde ilaçlarla Tui'nin başında dikilmekteydi. Tui, küçük ahşap masalarının üstüne sandalyesinden eğilerek kapanmış otururken La'nın gözlerinin içine mutsuz ifadelerle bakıyordu.
+					</div>
+					<div className="paragraph">
+						“Peki, ver hadi içeyim şu lanet şeyi.”
+					</div>
+					<div className="paragraph">
+						“Hadi, şimdi de yatağa geçelim. Sana bugün çok güzel bir hikaye anlatacağım, emin ol çok beğeneceksin.”
+					</div>
+					<div className="paragraph">
+						Tui, sandalyesinden kalktıktan sonra yavaş adımlarla odalarına geçti. Yüksek ağaçlarla çevrili genişçe bir bahçenin ortasında ufak taştan bir evdi. Odalarının tavanında göğe bakan büyük bir pencere vardı. İkisinin yatakları dışında yalnızca bir dolap ve yataklarının arasında duran ufak bir şifonyer vardı. Tui, yatağına uzandıktan kısa süre sonra La elinde bir sandalye ile odaya girdi ve sandalyeyi Tui'nin yatağının başucuna koyup oturdu. Tui, tavandaki pencereden dışarı bakıp konuştu.
+					</div>
+					<div className="paragraph">
+						“Masum bulutlar bile dağılıyor gökyüzünün şu sıcak maviliğini kapatmamak için. Ben ise zorla uyutuluyorum.”
+					</div>
+					<div className="paragraph">
+						“Her şey senin iyiliğin için.”
+					</div>
+					<div className="paragraph">
+						“Kendimi bildim bileli her gün gecenin karanlığını göremeden uyumak, ayı ve yıldızları yalnızca dinlediğim hikayelerden biliyor olmak da mı benim iyiliğim için?”
+					</div>
+					<div className="paragraph">
+						“Her şey senin iyiliğin için.”
+					</div>
+					<div className="paragraph">
+						“Anne babamın kim olduğunu bilmemek de, biz küçükken Jay Amca'nın sürekli sana bir şeyler anlatıp ikinizin de benden gizlemesinin nedeni de benim iyiliğimi düşünmenizdi değil mi?”
+					</div>
+					<div className="paragraph">
+						“Yine dönüp dolaşıp mevzu buraya geldi. Ben de anne babamı tanımıyorum Tui. Ben de isterdim tanımak, bilmek onları.”
+					</div>
+					<div className="paragraph">
+						“Peki ya benden gizledikleriniz?”
+					</div>
+					<div className="paragraph">
+						“Gizlediğimiz bir şey yok ki. Ne biliyorsam hep seninle paylaştım. Paylaşmadığım bir şey varsa da bahçemizin ötesindeki dünyada olanların dehşetine düşmemeni istediğimdendir. Jay Amca'nın dışarıdaki salgınla ilgili anlattıklarının hepsini sana anlatabilsem, ben söylemeden içersin o onlarca ilacı tek tek gününde saatinde. Ama söz verdim ona, senin kalbin çok narin bunları duymak için.”
+					</div>
+					<div className="paragraph">
+						“Kendi taş kalpliliğini kabul ediyorsun böylece yani. Halbuki üstenci bir şekilde konuşmak yerine samimiyetimizin şeffaflığı ile bildiğin her şeyi anlatabilirsin. Belki de aynı samimiyeti paylaşmıyoruz.”
+					</div>
+					<div className="paragraph">
+						Güneş yavaş yavaş kaybolurken gökyüzünü bulutlar kaplamaya başlamıştır.
+					</div>
+					<div className="paragraph">
+						"Tui," dediğin şeye bak. Kalbimi kırıyorsun. Gözlerin yavaş yavaş kapanıyor. Bunları ikimiz de hazır hissettiğimizde başka bir gün konuşalım. Sana söz, bir gün her şeyi anlatacağım sana. Ama şimdi uyuman gerekiyor."
+					</div>
+					<div className="paragraph">
+						La'nın sözleri bittikten sonra bir süre sessizlik hakim oldu. Tui'nin uykuya dalmasıyla birlikte güneş de tamamen battı. La, sandalyesinden eğilip Tui'nin kulağına fısıldamaya başladı.
+					</div>
+					<div className="paragraph">
+						"İyi uykular birtanem."
+					</div>
 				</div>
 			</React.Fragment>
 		),
