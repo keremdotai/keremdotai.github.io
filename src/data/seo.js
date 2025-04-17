@@ -2,22 +2,22 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Kerem Avci", "keremdotpy", "mkeremavci", "kerem.ai"],
+			"Discover the personal website of Kerem Avcı, a full-stack ML Engineer. Explore hands-on projects, thought-provoking stories, and insights into deep learning, sustainability, and innovation.",
+		keywords: ["Kerem Avci", "keremdotpy", "mkeremavci", "kerem.ai", "ML Engineer", "Deep Learning"],
 	},
 
 	{
 		page: "about",
 		description:
-			"Machine Learning entusiast, Full-stack ML Engineer, a cat dad, and a lifelong learner.",
-		keywords: ["Kerem Avci", "keremdotpy", "mkeremavci", "kerem.ai", "Maynard Vision", "Vitamu", "Bogazici University", "Full-stack ML Engineer"],
+			"Explore the professional profile of Kerem Avcı, a full-stack machine learning engineer with expertise in deep learning and backend development. Browse skills, experience, and download the full resume.",
+		keywords: ["Kerem Avci", "keremdotpy", "mkeremavci", "kerem.ai", "Eatron Technologies", "Bogazici University", "Full-stack ML Engineer"],
 	},
 
 	{
 		page: "stories",
 		description:
-			"Here you can find my thoughts on many subjects, my research outputs, and the stories and scenarios I have written.",
-		keywords: ["Kerem Avci", "keremdotpy", "mkeremavci", "kerem.ai", "articles", "blog posts", "research papers", "stories", "scenarios", "screenplay"],
+			"Read original stories by Kerem Avcı — poetic, introspective, and emotionally resonant narratives that explore solitude, existence, and the human spirit. Discover writing that blends emotion with imagination.",
+		keywords: ["Kerem Avci", "keremdotpy", "mkeremavci", "kerem.ai", "story", "stories", "screenplay", "screenplays", "scenario", "scenarios"],
 	},
 
 	{

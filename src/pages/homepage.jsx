@@ -30,7 +30,7 @@ const Homepage = () => {
 		<React.Fragment>
 			{/* SEO */}
 			<Helmet>
-				<title>{INFO.main.title}</title>
+				<title>{`Home | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"

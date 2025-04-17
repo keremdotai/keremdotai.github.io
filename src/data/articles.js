@@ -578,12 +578,12 @@ function article_2() {
 		title: "mehmet'in kısa hikayesi",
 		link: "mehmetin-kise-hikayesi",
 		description:
-			"Mehmet'in kısa hikayesi",
-		style: ``,
+			"Mehmet’in sessiz dünyasında geçen bu kısa hikâye, küçük bir çocuğun hayal gücüyle ördüğü içsel yolculukla başlıyor.",
 		keywords: [
 			"otobiyografi",
-			"hikaye",
-			"kısa",
+			"biyografi",
+			"hayal",
+			"yolculuk"
 		],
 		body: (
 			<React.Fragment>
@@ -731,12 +731,11 @@ function article_3() {
 		title: "küçük kıza mektup",
 		link: "kucuk-kiza-mektup",
 		description:
-			"Küçük kıza mektup",
-		style: ``,
+			"Bir mektubun satır aralarında saklı kalan sevgi, suçluluk ve vicdan duygularıyla örülmüş içten bir anlatı. Geçmişin izlerini bir çocuğun gözlerinde arayan bir yüzleşme.",
 		keywords: [
-			"otobiyografi",
-			"hikaye",
-			"kısa",
+			"mektup",
+			"kısa hikaye",
+			"vicdan",
 		],
 		body: (
 			<React.Fragment>
@@ -767,10 +766,13 @@ function article_4() {
 		title: "nefes",
 		link: "nefes",
 		description:
-			"Nefes",
-		style: ``,
+			"“Nefes”, varoluşla yokluk arasında salınan, içsel bir arayışın metaforlarla örülü anlatımı. Zamanın, yalnızlığın ve teslimiyetin katmanlarında ilerleyen bu metin; insanın karanlıkla, ışıkla ve kendisiyle yüzleşmesini konu alıyor.",
 		keywords: [
+			"nefes",
 			"şiir",
+			"kısa hikaye",
+			"yalnızlık",
+			"metafor",
 		],
 		body: (
 			<React.Fragment>
@@ -913,10 +915,11 @@ function article_5() {
 		title: "mevsimler ve çiçekler",
 		link: "mevsimler-ve-cicekler",
 		description:
-			"Mevsimler ve çiçekler",
-		style: ``,
+			"Mevsimlerin değişimiyle birlikte içsel bir dönüşümün izini süren bu metin, çiçeklerin sessiz dilinde saklı duyguları anlatıyor. “Mevsimler ve Çiçekler”, kaybolan birine duyulan özlemi, doğanın ritmiyle harmanlayan sade ve simgesel bir hikaye.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"mevsim",
+			"çiçek",
 		],
 		body: (
 			<React.Fragment>
@@ -1076,8 +1079,7 @@ function article_6() {
 		title: "o daha bir çocuk",
 		link: "o-daha-bir-cocuk",
 		description:
-			"Boğaziçi Üniversitesindeki polis saldırısının ardından...",
-		style: ``,
+			"Boğaziçi Üniversitesindeki polis saldırısı üzerine söylenmiştir.",
 		keywords: [
 			"şiir",
 		],
@@ -1128,10 +1130,13 @@ function article_7() {
 		title: "zeytin ağacı ve kuyu",
 		link: "zeytin-agaci-ve-kuyu",
 		description:
-			"Bir kuyu, bir zeytin ağacı ve bir kuyu.",
-		style: ``,
+			"Bir zeytin ağacıyla bir kuyunun karşılaşmasında hayat bulan bu anlatı, karanlık ve aydınlık, suskunluk ve sabır üzerine simgesel bir hikâye sunuyor. Zeytin ağacı ve kuyu, insanın içsel derinliklerine yapılan sessiz ama etkileyici bir yolculuk.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"zeytin ağacı",
+			"kuyu",
+			"zeytin",
+			"derin",
 		],
 		body: (
 			<React.Fragment>
@@ -1198,10 +1203,12 @@ function article_8() {
 		title: "saadet zamanı",
 		link: "saadet-zamani",
 		description:
-			"Bir kuyu, bir zeytin ağacı ve bir kuyu.",
-		style: ``,
+			"Zamanın sessizce akıp gidişini ve insanın kendine ait olanla kurduğu görünmeyen bağları anlatan hüzünlü bir hikâye. Belleğin kırık parçalarında gezinirken, okuru unutulmuş ama tanıdık bir zamana götürüyor.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"saadet",
+			"özlem",
+			"hafıza",
 		],
 		body: (
 			<React.Fragment>
@@ -1295,10 +1302,17 @@ function article_9() {
 		title: "kan portakalı",
 		link: "kan-portakali",
 		description:
-			"Bir kuyu, bir zeytin ağacı ve bir kuyu.",
-		style: ``,
+			"Bir defterin sayfalarında açılan kapılarla tanıştığımız Ahmet’in yaşamı; yitip giden aile bağları, bastırılmış acılar ve suskunlukla örülü bir yalnızlıkla anlatılıyor. “kan portakalı”, toplumun kıyısında bir adamın günlükleri üzerinden aidiyet, sessizlik ve kırılganlık üzerine derin bir iç yolculuk sunuyor.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"kan",
+			"portakal",
+			"kan portakalı",
+			"defter",
+			"günlük",
+			"aile",
+			"doğum",
+			"ölüm",
 		],
 		body: (
 			<React.Fragment>
@@ -1524,10 +1538,14 @@ function article_10() {
 		title: "takvim kenarı",
 		link: "takvim-kenari",
 		description:
-			"A short dummy story for testing purposes.",
-		style: ``,
+			"Hastalıklar, vedalar, geç kalınmış karşılaşmalar ve bir bankta başlayan dostlukla örülü bu anlatı; zamanı, hafızayı ve umutla vedayı aynı kalpte taşıyor.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"takvim",
+			"kenar",
+			"takvim kenarı",
+			"hafıza",
+			"zaman",
 		],
 		body: (
 			<React.Fragment>
@@ -1603,10 +1621,11 @@ function article_11() {
 		title: "agapiméni mou istanbul",
 		link: "agapimeni-mou-istanbul",
 		description:
-			"A short dummy story for testing purposes.",
-		style: ``,
+			"“agapiméni mou istanbul” çizimle, kelimeyle ve hafızayla dokunulan bir İstanbul anlatısı sunuyor. Pencerelerden sızan ışıklar, rüzgarda dalgalanan saçlar, yarım kalmış aşklar ve efsaneler eşliğinde bir anlatıcının şehirle ve kendisiyle kurduğu samimi bir bağın izini sürüyor",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"İstanbul",
+			"şehir anlatısı",
 		],
 		body: (
 			<React.Fragment>
@@ -1823,10 +1842,12 @@ function article_12() {
 		title: "mut",
 		link: "mut",
 		description:
-			"A short dummy story for testing purposes.",
-		style: ``,
+			"“mut”, bir fırtınayla başlayan, kaybolmuş bir çocuğun yabancı bir evrende kendine, geçmişine ve duygularına doğru yaptığı büyülü bir yolculuğu anlatıyor. Thisbe’nin masumiyetiyle Fahim’in yüreği arasında kurulan bağ, unutulmuş dostluklar, sihirli eller, kırılmış kalpler ve masalsı anlatılarla örülüyor. Bu hikâye; çocuk olmanın, ait olmanın ve sevilmenin ne demek olduğunu yeniden hatırlatıyor.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"masal",
+			"mut",
+			"çocukluk",
 		],
 		body: (
 			<React.Fragment>
@@ -2214,10 +2235,12 @@ function article_13() {
 		title: "fotoğraflar üzerine",
 		link: "fotograflar-uzerine",
 		description:
-			"A short dummy story for testing purposes.",
-		style: ``,
+			"“fotoğraflar üzerine”, görüntüde donmuş anların ötesine geçerek, geçmişe duyulan özlem ve geride kalmanın yarattığı içsel sarsıntıyı anlatıyor. Bir mezar taşı, yıllar sonra hatırlanan bir gülümseme ve zihinde yeniden yaşanan bir fotoğraf karesiyle; kayıpların, sessiz vedaların ve hafızanın derinlerinde bir yolculuk.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"fotoğraflar",
+			"hafıza",
+			"mezar",
 		],
 		body: (
 			<React.Fragment>
@@ -2257,10 +2280,13 @@ function article_14() {
 		title: "döngü",
 		link: "dongu",
 		description:
-			"A short dummy story for testing purposes.",
-		style: ``,
+			"Bu hikâye, yalnızca bir çocuğun özgürlüğü değil; geceyle gündüzün birbirine duyduğu suskun aşk, kaderin zincirlediği bir döngü ve konuşulamayan hislerin sessizliği üzerine yazılmış bir modern ağıt. Aşkın, ayrılığın ve tekrar bulmanın büyülü bir anlatısı.",
 		keywords: [
-			"şiir",
+			"kısa hikaye",
+			"döngü",
+			"gece",
+			"gündüz",
+			"uyku",
 		],
 		body: (
 			<React.Fragment>
