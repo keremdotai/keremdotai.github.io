@@ -2337,6 +2337,246 @@ function article_14() {
 					<div className="paragraph">
 						"İyi uykular birtanem."
 					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						Ertesi gün Tui yatakta uyanmak için debelenirken güneş tüm ahesteliğiyle yukarı tırmanıyordu. Tui yataktan kalkıp elini yüzünü yıkadıktan sonra kedileri ile oynamak için bahçeye çıktı. Arkadan La'nın sesi geliyordu.
+					</div>
+					<div className="paragraph">
+						"Tui, ilaçlarını içmeden hemen dışarı mı çıkacaksın?"
+					</div>
+					<div className="paragraph">
+						"Benim ilaçlara ihtiyacım olduğundan fazla kedilerin bana ihtiyacı var. Merak etme biraz onları koşturup geleceğim ilaçlarımı içmeye."
+					</div>
+					<div className="paragraph">
+						"Bekliyorum seni."
+					</div>
+					<div className="paragraph">
+						Tui, elindeki olta ile bahçe boyunca koştururken kedileri de peşinden gelmektedir. Bahçenin etrafındaki ağaçlara yaklaştığında duraksadı.
+					</div>
+					<div className="paragraph">
+						“Hey, sen de kimsin?”
+					</div>
+					<div className="paragraph">
+						Tui'nin bağırışını duyan La hızlıca evden çıkıp Tui'nin yanına koşmaya başladı.
+					</div>
+					<div className="paragraph">
+						“Tui, hemen gel buraya eve girmemiz lazım.”
+					</div>
+					<div className="paragraph">
+						“La, iki insan yaklaşıyor buraya!”
+					</div>
+					<div className="paragraph">
+						Tui'nin heyecanı yüzünden gözükmekteydi. Ona anlatılan hikayelerde salgının bütün insanlığı yok ettiği, çok uzaklarda onlar gibi ilacı belki bulan ve kurtulan birkaç küçük grubun kaldığı söylenmişti.
+					</div>
+					<div className="paragraph">
+						La Tui'nin yanına yetişemeden onlar gibi yirmili yaşlarında bir kadın Tui'nin karşısına çıkageldi.
+					</div>
+					<div className="paragraph">
+						“Merhaba, ismim Hera. Uzaktan öylece bağırmak istemedim. Arkadaşlarımla yürüyüş yapıyorduk, gördüğüm birkaç çiçeğin fotoğrafını çekmek isterken geride kaldım, onları kaybettim. Yakınlardan geçen iki kişi gördünüz mü acaba?”
+					</div>
+					<div className="paragraph">
+						“Senin gibi salgından kurtulan başkaları da mı var?”
+					</div>
+					<div className="paragraph">
+						“Salgın mı, ne salgını?”
+					</div>
+					<div className="paragraph">
+						Tui söze girecekken La onun yanına ulaştı ve Tui'nin kolundan sıkıca tuttu.
+					</div>
+					<div className="paragraph">
+						“Tui, hadi eve geçiyoruz. Şu an bu çok riskli, daha fazla yaklaşmamamız gerekiyor.”
+					</div>
+					<div className="paragraph">
+						“La, biraz durur musun? Dinlemek istiyorum. Salgından haberiniz olmamış olamaz, neredeyse tüm insanlığı yok etti. Siz de kurtulanlardan olmalısınız.”
+					</div>
+					<div className="paragraph">
+						“Öyle bir salgın yaşanmadı hiç. Herhalde şu an benimle dalga geçiyor olmalısınız.”
+					</div>
+					<div className="paragraph">
+						“Tui, lütfen eve dönelim.”
+					</div>
+					<div className="paragraph">
+						O an La'nın sesindeki çaresizliği Tui anlamayacak kadar şaşkın ve öfkeliydi. Bu sıcak yaz gününe rağmen sert ve soğuk bir rüzgar doğudan esmeye başlamıştı.
+					</div>
+					<div className="paragraph">
+						“Jay Amca, La; bana bunca zaman yalan söylemiş yani. İçtiğim onca ilaç, ötesine olan merakıma rağmen çıkamadığım şu bahçe...”
+					</div>
+					<div className="paragraph">
+						“Tui, sana her şeyi anlatabilirim.”
+					</div>
+					<div className="paragraph">
+						“Seni daha fazla dinlemek istemiyorum La. Hera idi isminiz değil mi? Eğer rahatsız olmayacaksanız sizinle gelebilir miyim, beni geldiğiniz yere götürme şansınız olur mu?”
+					</div>
+					<div className="paragraph">
+						“Şey, evet, tabii ki. Karmaşık bir durum var sanki burada. Açıkçası kafam karıştı benim de.”
+					</div>
+					<div className="paragraph">
+						“Çok özür dilerim kendi adıma. Sadece size sormak istediğim çok sorum olacak yol boyunca.”
+					</div>
+					<div className="paragraph">
+						Tui, kolunu La'nın ellerinin arasından sertçe kopardı.
+					</div>
+					<div className="paragraph">
+						“Uygunsa sizin için, arkadaşlarınızı bulmak için yola çıkabiliriz.”
+					</div>
+					<div className="paragraph">
+						Tui ve Hera ağaçların arasına karışmışken, La dizlerinin üstüne kapanmış ağlamaktaydı. Hayatında ilk defa Tui'den ayrı düşüyordu. Ona olan aşkını hiçbir zaman dile getirememişti. Çünkü bu dünyaya bir görev için gelmişlerdi.
+					</div>
+					<div className="paragraph">
+						Tanrı yaratırken bu dünyayı gündüz ve geceyi iki bedene mahkum etmişti. Ne vakit biri ölürse diğerine de ölüm anı gelmişti. Fakat ölüm bir onlar için bir son değildi, hatıraları silinse de yeni bedenlerde birbirlerini bulurlardı. Gündüz uykuya dalınca sahneyi gece alırdı. Kışı da onlar getirirdi yazı da; gözyaşları yağmur olurdu sevinçleri bahar. La'ya bu sonsuz döngü anlatışmıştı. Onun göreviydi günü de geceyi de vaktinde yaşatmak, mevsimleri tutturmak. Henüz ufacık bir çocukken bu sorumluluk omuzlarına yüklenmişti. Yaşlı bir bilge, nam-ı diğer Jay Amcaları, hangi ilaç hangi mevsimi getirir göstermişti ona.
+					</div>
+					<div className="paragraph">
+						Şimdi Tui gitmişti. La bilmediği bir dünyaya adım atmaktan imtina etmişti. Tui'nin peşinden gitmeye korkmuştu. Ona zaten ne diyebilirdi? Hele bir insan evladının yanında gerçekleri söylemesi imkansızdı. Bunca zaman sakladıktan sonra anlatmak kolay mıydı? İnsan bir kere içinde tutmaya alıştı mı, göğsünde ölüme razı bırakacak ağrılar olsa anlatamazdı. Gece de gündüz de olsan, şayet insansan, bu şaşmazdı. Gece de, gündüz de olsan…
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						Tui, Hera ve arkadaşlarıyla şehre gelmişti. Senelerce mahkum olduğu taş evlerinin aksine renkli ve hareketli bir dünyanın ortasında kendini bulmuştu. Yürürken yanından geçtiği binaların duvarlarına parmak uçlarıyla dokunuyor, bir yandan Hera’yı dinlerken bir yandan kalabalığın sesine kulak veriyordu. Kendini hiç olmadığı kadar yaşıyor hissediyordu. Ailesini, La’yı, ilaçları, ömrünü yalanlarla değil de bu şehirde gerçekliğin kendisiyle geçirmiş olsaydı olabilecek ihtimalleri düşünmeye vakti yoktu. Tanıyacağı çok şey vardı. En başta kendini tanıması gerekiyordu. Ona bu hayatı gösteren ilk insana, Hera’ya karşı duyduğu minnettarlığın karşı konulmaz bir sevgi ve ilgiye saatler içinde dönüşümünü kalbinin atışında duyuyordu. Tui’nin çocukça merakı ve kendisine gösterdiği ilgi Hera’nın da hoşuna gitmişti. Gün boyunca şehri gezdikten sonra ikili birlikte Hera’nın evine geçti.
+					</div>
+					<div className="paragraph">
+						“Hera, komik gelecek sana biliyorum fakat ben hiç yıldızları görmedim. Karanlık nedir gece nedir hiç bilmedim. Her gün hava henüz kararmadan La ilaç dediği şeylerden içirip beni yatağıma götürüyordu. Fakat o kadar merak ediyorum ki gecenin rengini görmeyi.”
+					</div>
+					<div className="paragraph">
+						"Bugün benimle oluşun güzel bir fırsat, birlikte izleyebiliriz. Komik geldiğinden değil fakat hala hayatına dair anlattıklarını, böyle bir ömrün geçebileceği düşüncesini sindirmekte zorlanıyorum."
+					</div>
+					<div className="paragraph">
+						"Anlıyorum, emin ol benim için çok daha zor."
+					</div>
+					<div className="paragraph">
+						"Senin için daha zordur tabii ki. Fakat anlatılanlar biraz korkutucu gelmiyor değil."
+					</div>
+					<div className="paragraph">
+						"Umarım burada seni korkutan ben değilimdir."
+					</div>
+					<div className="paragraph">
+						Tui, yanıt bekleyen gözlerle Hera'ya bakarken Hera yüzü karşısındaki televizyona dönük şekilde sigarasını yakmaya çalışmaktaydı. Aradığı yanıtın gelmeyeceğini anladığında Tui konuşmaya devam etti.
+					</div>
+					<div className="paragraph">
+						"La bizim peşimizden gelmez. O yalanlarla döşediği evimizden çıkabilecek kadar cesaretli değil. Benden de sana herhangi bir zarar gelmez. Henüz yeni tanıdığın bir insan ne kadar güven verebilir sana bilemem tabii ki. Ancak tüm gün bana eşlik etmen, şu an burada olmamız bana güvendiğinin bir işareti olarak düşünmekteyim."
+					</div>
+					<div className="paragraph">
+						Tui'nin sözü bittikten sonra Hera yavaşça Tui'ye doğru döndü. Karşısında ona sevgi ile bakan gözlere benzer bir karşılık sunmuyordu. Tui'nin ilgisi onun hoşuna gitse de, bunun farklı kelimelere ve eylemlere dökülme ihtimalini istemiyordu. Bu sırada oluşan sessizliği yine Tui bozdu.
+					</div>
+					<div className="paragraph">
+						"Benim için bunlar çok kıymetli. Sen olmasan bu dünyayı asla göremezdim, gerçekleri bilemezdim. Bugünün her bir anı için, bu an için çok minnettarım. Çok teşekkür ederim."
+					</div>
+					<div className="paragraph">
+						"Rica ederim. Kahve içer misin?"
+					</div>
+					<div className="paragraph">
+						"Şimdi de kahve nedir diye sorsam bana gülmezsin değil mi?"
+					</div>
+					<div className="paragraph">
+						Hera, kahkaha attıktan sonra yanıt verdi.
+					</div>
+					<div className="paragraph">
+						"Tabii ki gülerim. Yalnız bir gariplik var. Bu saatlerde güneşin batması gerekiyordu, hala öğle vakti gibi aydınlık dışarısı. Ben hemen kahve demlemeye geçiyorum, o esnada telefondan da bir bakarım neler oluyor diye. Sen rahatına bak, dilediğin gibi takıl burada."
+					</div>
+					<div className="paragraph">
+						Hera, henüz bitmemiş sigarasıyla ayağa kalktı ve mutfağa doğru gitti. Tui, yıldızları izlemek için sabırsızdı. İçinde bulunduğu odada her şeyi karıştırmak, her detayı incelemek istese de senelerdir beklediği ânın yaklaştığı düşüncesi onu oturduğu yerde heyecanla bekletiyordu. Tui, asla erişemeyeceği şeyi heyecanla bekliyordu.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						Saatlerdir bekleseler de güneş gökyüzünün tepesinden milim hareket etmemişti. Tui için olup bitenler bir anlam ifade etmese de Hera'nın gerginliğinden olağan dışı şeylerin gerçekleştiğini anlamaktaydı.
+					</div>
+					<div className="paragraph">
+						"Güneşin çoktan batması gerekiyordu, değil mi?"
+					</div>
+					<div className="paragraph">
+						"Evet Tui, bunu sana kaç kere söyleyeceğim."
+					</div>
+					<div className="paragraph">
+						"Sadece emin olmak için sormuştum."
+					</div>
+					<div className="paragraph">
+						"Ben bu kadar söyledikten sonra umarım artık emin olmuşsundur."
+					</div>
+					<div className="paragraph">
+						"Özür dilerim."
+					</div>
+					<div className="paragraph">
+						"Dileme özür. Başımıza ne geleceğini bilmezken senin aptalca sorularını yanıtlamaktan yoruldum."
+					</div>
+					<div className="paragraph">
+						Kalbinde soluk almaksızın koşarcasına beliren bu yoğun sevginin sahibinin kaygısına ortak olamamanın yanında, yeni kaygılara sebebiyet vermenin yükü, Tui'nin boğazında düğümlendi. Güneş hala tepede olsa da önünü bu yük kadar ağır yağmurlar taşıyan bulutlar kesmeye başlamıştı.
+					</div>
+					<div className="paragraph">
+						"Hera."
+					</div>
+					<div className="paragraph">
+						"Efendim!"
+					</div>
+					<div className="paragraph">
+						"Bunu söylemek için çok erken olabilir. İlk defa da birisi için dile getireceğim, zaten ömrüm bir taş evde geçti, bu duyguyu kime nasıl hissedebilirdim ki."
+					</div>
+					<div className="paragraph">
+						"Neyden bahsediyorsun Tui?"
+					</div>
+					<div className="paragraph">
+						"Hera, ben sana aşık oldum sanırım. Şu an doğru bir an mı bunu söylemek için bilmiyorum ama dediğin gibi her şey felakete sürükleniyorsa beklemek istemedim."
+					</div>
+					<div className="paragraph">
+						"Of Tui! Senin bu aptalca dertlerinden de, manasız duygularından da gerçekten çok sıkıldım. Ne aşkı ne sevgisi ya! Bu kadar derdin arasında neden bir de seninle uğraşmak zorundayım?"
+					</div>
+					<div className="paragraph">
+						"Gidebilirim istersen."
+					</div>
+					<div className="paragraph">
+						"Sen zaten niçin buradasın ki? Nasıl lanetli biriysen artık, o ininde tutulmanın belki de bir nedeni vardı."
+					</div>
+					<div className="paragraph">
+						"Gidiyorum o zaman."
+					</div>
+					<div className="paragraph">
+						"Durman hata değil mi?"
+					</div>
+					<div className="paragraph">
+						Tui oturduğu koltuktan ayağa kalktı ve oturdukları odanın kapısına doğru gitti. Eli kapının tokmağına gittiği sırada Hera ona seslendi.
+					</div>
+					<div className="paragraph">
+						"Tui."
+					</div>
+					<div className="paragraph">
+						"Efendim?"
+					</div>
+					<div className="paragraph">
+						Hera, kendisine bu denli saf bağlılık ve sevgi duyan birisi onun her istediğini yapabilirdi. Bunun farkındalığı ile Tui'ye veda edip etmemenin muhakemesini içinde vermekteydi. Tui, onun için yetişkin bedeninde bir çocuktu. Bu çocuksuluk, elde etmek isteyeceği her şeyin kilidini açacak bir anahtar olabilirdi. Fakat içinde olduğu bilinmezlik halinde yüreğine gölgesi bile düşmeyen dertleri, hayalleri ve sualleri dinlemek istememekteydi. Hera, yalnız kendi hisleri ve arzularıyla kesesini doldurmaya alışıktı.
+					</div>
+					<div className="paragraph">
+						"Gidebilirsin."
+					</div>
+					<div className="paragraph">
+						Tui, yaşadığı hayal kırıklığı ile merdivenleri yavaş yavaş indi. Apartmandan çıktıktan sonra Hera'nın penceresinden görülmeyecek bir köşeye geçip kaldırıma oturdu. Yaşadığı hisler onun için bir ilkti, insanın bu kadar canının acıyabileceğini tahmin etmezdi. Gözünden düşen bir damla ile ilk yağmur tanesi de avcuna düştü. O, gözlerinin tüm kederini dökmesine izin verdi; bulutlar da ona aynı şekilde karşılık verdi. Ait olmadığını hissettiği bu dünyadan kurtulmak için gidebileceği, bildiği tek bir yer vardı.
+					</div>
+					<div className="paragraph" style={{ fontStyle: "italic", marginBottom: "4em", marginTop: "4em" }}>
+						<strong>...</strong>
+					</div>
+					<div className="paragraph">
+						La yatağına uzanmış, tavandaki pencereden dışarıyı izlemekteydi. Karanlığa gülüşü gibi narin bir aydınlıkla eşlik edip görevini ifa etmesi gerekirken gökyüzüne güneş hala hakimdi. Görevini ise o an hiç önemsemiyordu. Aklındaki tek şey Tui'ydi. Ona ulaşabilmek, onun sesini duyabilmek, onun gülüşüne nail olmak; onun iyi olduğuna emin olmak için nelerden vazgeçmezdi ki.
+					</div>
+					<div className="paragraph">
+						Aklında Tui, yatağında uzanırken kapının açıldığını duydu. Kapının sesiyle birlikte iki göz evlerinin salonuna kendini attı. Tui karşısındaydı fakat yüzüne bakmıyordu.
+					</div>
+					<div className="paragraph">
+						"İlaçlarımı verir misin?"
+					</div>
+					<div className="paragraph">
+						La, dolaptan Tui'nin saatler önce içmesi gereken ilaçları çıkardı ve hemen Tui'ye getirdi. Tui ilaçlarını içtikten sonra odalarına doğru yöneldi. Hala La'nın yüzüne bir kez olsun bakmamıştı.
+					</div>
+					<div className="paragraph">
+						"Sana uyumadan hikaye anlatmamı ister misin?"
+					</div>
+					<div className="paragraph">
+						Tui kapının eşiğinde kısa bir süre durdu. Hayır demeye dahi gücü yoktu. Derin bir nefes aldıktan sonra ilerledi ve yatağına geçti. La ise odalarına geçmek için Tui'nin uyumasını bekledi. Yine taşıdığı sandalyeyi Tui'nin başucuna getirmişti.
+					</div>
+					<div className="paragraph">
+						"Bunca şeyin benim için ne kadar zor olduğunu ah bir bilsen Tui. Senin aşkınla kalplerindeki ışığı dünyamıza düşürdüğüm yıldızları bir kez olsun sana gösterememek ne kadar acı bir bilsen. Sen uyurken içimi döktüğüm aya anlatabildiklerimi bir de sana anlatabilsem. Bir kez olsun içime gömdüğüm hazineye senin ellerinle dokunabilsem. Keşke kendini benim gözlerimle görsen Tui. Uzansam saçlarına dokunacağım insanın benden asırlar kadar uzak olması ne demek bir bilsen. Keşke, bilsen."
+					</div>
 				</div>
 			</React.Fragment>
 		),
