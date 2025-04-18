@@ -6,6 +6,7 @@
 // In the mobile version, the grid is displayed vertically.
 
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaArrowRight, FaArrowLeft } from 'react-icons/fa';
 
@@ -19,6 +20,8 @@ import './styles/homeGrid.css';
 const HomeGrid = () => {
 	const [currentProject, setCurrentProject] = useState(0);
 	const [currentStory, setCurrentStory] = useState(0);
+
+	const navigate = useNavigate();
 
 	const cardVariants = {
 		enter: {
@@ -90,7 +93,7 @@ const HomeGrid = () => {
 						animate="center"
 						exit="exit"
 						className="card"
-						onClick={() => window.location.href = projects[currentProject].link}
+						onClick={() => window.open(projects[currentProject].link, '_blank')}
 					>
 						<div className="card-content">
 							<div className="card-title">{projects[currentProject].title}</div>
@@ -118,7 +121,7 @@ const HomeGrid = () => {
 						animate="center"
 						exit="exit"
 						className="card"
-						onClick={() => window.location.href = stories[currentStory].link}
+						onClick={() => window.open(`${window.location.origin}/#/story/${stories[currentStory].link}`, '_blank')}
 					>
 						<div className="card-content">
 							<div className="card-title">{stories[currentStory].title}</div>
