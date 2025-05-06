@@ -1,133 +1,77 @@
+// © 2025 kerem.ai · All rights reserved.
+// This file contains the projects for the website.
+// Status can be used in the component:
+// 📦 Production
+// Stable and fully deployed projects currently in use.
+// 🚀 Active
+// Actively developed or frequently updated projects.
+// 💡 Idea
+// Concepts or rough plans that may evolve into full projects.
+// 🚧 Development
+// Projects under active construction or major feature work.
+// 🧪 Experimental
+// Prototype projects used to explore or validate new ideas.
+// 💤 Dormant
+// Paused or inactive projects, potentially resumed in the future.
+// 🗃️ Archived
+// Finished or discontinued projects, kept for reference.
+// 🔍 Under Review
+// Projects being evaluated, audited, or tested by you or others.
+// 🎯 Planned
+// Approved ideas or upcoming projects queued for future work.
+// 🛠️ Maintenance
+// Projects in a stable state but still receiving bug fixes or small updates.
+// 📊 Dataset
+// A curated or scraped collection of data, possibly accompanied by scripts for collection or processing.
+// 🧰 Utility
+// A reusable script, tool, or helper meant to support other workflows or projects.
+
 const PROJECTS = [
 	// Machine Learning & AI
 	{
-		title: "Election Results Scraper",
-		description: "Scraping election results from Turkish Supreme Election Council's website.",
+		title: "TorchJiC",
+		description: "TorchJiC is an experimental framework for compiling Python functions or PyTorch operations directly into CUDA kernels — at runtime.",
 		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "https://github.com/keremdotai/sonuc-ysk-gov-tr-scraper",
-		category: "Machine Learning & AI",
-		status: "🚀 Active",
-		date: "2024-03-15"
-	},
-	{
-		title: "AI Model Deployment Pipeline",
-		description: "Automated pipeline for deploying machine learning models to production.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "#",
+		link: "https://github.com/keremdotai/torchjic",
 		category: "Machine Learning & AI",
 		status: "💡 Idea",
-		date: "2024-03-10"
-	},
-	{
-		title: "AI Model Deployment Pipeline",
-		description: "Automated pipeline for deploying machine learning models to production.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "#",
-		category: "Machine Learning & AI",
-		status: "💡 Idea",
-		date: "2024-03-10"
-	},
-	{
-		title: "AI Model Deployment Pipeline",
-		description: "Automated pipeline for deploying machine learning models to production.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "#",
-		category: "Machine Learning & AI",
-		status: "💡 Idea",
-		date: "2024-03-10"
+		date: "2025-05-01"
 	},
 
 	// Infrastructure & Tools
 	{
 		title: "pynetdicom+",
-		description: "Extended version of pynetdicom library with additional features.",
+		description: "Extended version of pynetdicom library with additional features such as multi-process support and multi-SOP handling.",
 		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "https://github.com/keremdotai/pynetdicom-plus",
+		link: "https://github.com/keremdotai/pynetdicomplus",
 		category: "Infrastructure & Tools",
 		status: "📦 Production",
-		date: "2024-02-20"
-	},
-	{
-		title: "DevOps Automation Suite",
-		description: "Collection of tools for automating development and deployment workflows.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/bash/bash.png",
-		linkText: "View Project",
-		link: "#",
-		category: "Infrastructure & Tools",
-		status: "🚀 Active",
-		date: "2024-02-15"
+		date: "2024-03-15"
 	},
 
 	// Open Data for the Public
 	{
-		title: "Public Health Data API",
-		description: "API providing access to public health data with visualization tools.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		linkText: "View Project",
-		link: "#",
-		category: "Open Data for the Public",
-		status: "💡 Idea",
-		date: "2024-03-01"
-	},
-	{
-		title: "Climate Data Explorer",
-		description: "Interactive platform for exploring and analyzing climate data.",
+		title: "Election Results Scraper",
+		description: "Scraping election results from Turkish Supreme Election Council's website.",
 		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "#",
+		link: "https://github.com/keremdotai/sonuc-ysk-gov-tr-scraper",
 		category: "Open Data for the Public",
-		status: "🚀 Active",
-		date: "2024-02-25"
+		status: "📊 Dataset",
+		date: "2024-09-01"
 	},
 
 	// APIs & Interfaces
-	{
-		title: "REST API Framework",
-		description: "Lightweight framework for building RESTful APIs with Python.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "#",
-		category: "APIs & Interfaces",
-		status: "📦 Production",
-		date: "2024-02-10"
-	},
-	{
-		title: "GraphQL Gateway",
-		description: "Unified GraphQL interface for multiple microservices.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		linkText: "View Project",
-		link: "#",
-		category: "APIs & Interfaces",
-		status: "🚀 Active",
-		date: "2024-02-05"
-	},
 
 	// Prototypes & Ideas
 	{
 		title: "keremdotai.github.io",
 		description: "Source code of my personal website.",
 		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		linkText: "View Project",
 		link: "https://github.com/keremdotai/keremdotai.github.io",
 		category: "Prototypes & Ideas",
-		status: "💡 Idea",
-		date: "2024-01-10"
+		status: "🚀 Active",
+		date: "2025-04-15"
 	},
-	{
-		title: "AI-Powered Code Review",
-		description: "Tool for automated code review using machine learning.",
-		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-		linkText: "View Project",
-		link: "#",
-		category: "Prototypes & Ideas",
-		status: "💡 Idea",
-		date: "2024-01-05"
-	}
 ];
 
 export default PROJECTS;

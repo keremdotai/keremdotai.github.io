@@ -43,30 +43,13 @@
 
 .project-description {
 	color: var(--secondary-color);
+	font-size: 13px;
 	flex-grow: 1;
 }
 
 .project-status {
 	color: var(--secondary-color);
 	font-size: 14px;
-	margin-bottom: 20px;
-}
-
-.project-link {
-	display: flex;
-	align-items: center;
-	color: var(--secondary-color);
-	font-size: 12px;
-	margin-top: auto;
-}
-
-.project-link-icon {
-	padding-left: 5px;
-	font-size: 13px;
-}
-
-.project-link-text {
-	padding-left: 20px;
 	font-weight: 700;
 }
 
@@ -82,11 +65,6 @@
 	opacity: 1;
 	border: 2px solid #c770f0;
 	transition: background-color 0.3s ease-in-out;
-}
-
-.project:hover .project-link {
-	color: #000000;
-	transition: color 0.3s ease-in-out;
 }
 
 .project:hover .project-description {
